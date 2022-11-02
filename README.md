@@ -63,4 +63,3 @@ personal planner at the link below, which you can visit (and bookmark!) on any o
 ```
 https://YOUR_USERNAME.github.io/REPOSITORY_NAME
 ```
- 
