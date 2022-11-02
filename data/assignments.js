@@ -698,6 +698,13 @@ assignments = {
       "dueDate": "2022-11-02T17:00:00",
       "link": "https://www.gradescope.com/courses/417906/assignments/2395588/submissions/145103823",
       "submitted": true
+    },
+    {
+      "title": "HW5 (Report)",
+      "course": "CS 285",
+      "dueDate": "2022-11-22T00:00:00",
+      "link": "https://www.gradescope.com/courses/417906",
+      "submitted": false
     }
   ],
   "EE 120": [
