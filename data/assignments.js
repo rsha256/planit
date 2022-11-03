@@ -323,6 +323,20 @@ assignments = {
       "dueDate": "2022-11-06T23:00:00",
       "link": "https://www.gradescope.com/courses/425603",
       "submitted": false
+    },
+    {
+      "title": "HW 7 (Code)",
+      "course": "CS 182/282A",
+      "dueDate": "2022-11-05T23:00:00",
+      "link": "https://www.gradescope.com/courses/425603",
+      "submitted": false
+    },
+    {
+      "title": "HW7 (Written)",
+      "course": "CS 182/282A",
+      "dueDate": "2022-11-05T23:00:00",
+      "link": "https://www.gradescope.com/courses/425603",
+      "submitted": false
     }
   ],
   "CS 194-26 / 294-26": [
