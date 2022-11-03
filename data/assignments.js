@@ -994,15 +994,15 @@ assignments = {
       "title": "HW8 (pdf)",
       "course": "EECS 106A",
       "dueDate": "2022-11-01T23:59:00",
-      "link": "https://www.gradescope.com/courses/429119",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/429119/assignments/2388545/submissions/146078990",
+      "submitted": true
     },
     {
       "title": "HW8 (code)",
       "course": "EECS 106A",
       "dueDate": "2022-11-01T23:59:00",
-      "link": "https://www.gradescope.com/courses/429119",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/429119/assignments/2388552/submissions/146071255",
+      "submitted": true
     },
     {
       "title": "Final Project Proposal",
