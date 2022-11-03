@@ -337,6 +337,13 @@ assignments = {
       "dueDate": "2022-11-05T23:00:00",
       "link": "https://www.gradescope.com/courses/425603",
       "submitted": false
+    },
+    {
+      "title": "Project Proposal",
+      "course": "CS 182/282A",
+      "dueDate": "2022-11-10T23:00:00",
+      "link": "https://www.gradescope.com/courses/425603",
+      "submitted": false
     }
   ],
   "CS 194-26 / 294-26": [
