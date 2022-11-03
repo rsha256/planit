@@ -707,6 +707,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "HW 5 (Code)",
+      "course": "CS 285",
+      "dueDate": "2022-11-22T00:00:00",
+      "link": "https://www.gradescope.com/courses/417906",
+      "submitted": false
+    },
+    {
       "title": "HW5 (Report)",
       "course": "CS 285",
       "dueDate": "2022-11-22T00:00:00",
