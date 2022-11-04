@@ -724,8 +724,8 @@ assignments = {
       "title": "Lecture 20 Quiz (second try)",
       "course": "CS 285",
       "dueDate": "2022-11-04T17:00:00",
-      "link": "https://www.gradescope.com/courses/417906/assignments/2395590/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/417906/assignments/2395590/submissions/146282462",
+      "submitted": true
     },
     {
       "title": "HW 5 (Code)",
