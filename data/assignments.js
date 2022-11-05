@@ -896,13 +896,6 @@ assignments = {
       "dueDate": "2022-11-04T23:59:00",
       "link": "https://www.gradescope.com/courses/401330",
       "submitted": false
-    },
-    {
-      "title": "Lab 4",
-      "course": "EE 120",
-      "dueDate": "2022-11-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/401330",
-      "submitted": false
     }
   ],
   "EECS 106A": [
