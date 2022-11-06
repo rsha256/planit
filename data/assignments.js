@@ -1059,6 +1059,13 @@ assignments = {
       "dueDate": "2022-10-28T23:59:00",
       "link": "https://www.gradescope.com/courses/429119/assignments/2392117/submissions/144914023",
       "submitted": true
+    },
+    {
+      "title": "HW9 (pdf)",
+      "course": "EECS 106A",
+      "dueDate": "2022-11-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/429119",
+      "submitted": false
     }
   ]
 };
