@@ -747,6 +747,13 @@ assignments = {
       "dueDate": "2022-11-22T00:00:00",
       "link": "https://www.gradescope.com/courses/417906",
       "submitted": false
+    },
+    {
+      "title": "Lecture 22 Quiz",
+      "course": "CS 285",
+      "dueDate": "2022-11-09T17:00:00",
+      "link": "https://www.gradescope.com/courses/417906/assignments/2416706/submissions/146820420",
+      "submitted": true
     }
   ],
   "EE 120": [
