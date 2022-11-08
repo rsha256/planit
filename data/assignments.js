@@ -358,6 +358,13 @@ assignments = {
       "dueDate": "2022-11-21T13:59:00",
       "link": "https://www.gradescope.com/courses/425603",
       "submitted": false
+    },
+    {
+      "title": "HW 7 (Resubmission)",
+      "course": "CS 182/282A",
+      "dueDate": "2022-11-21T23:00:00",
+      "link": "https://www.gradescope.com/courses/425603",
+      "submitted": false
     }
   ],
   "CS 194-26 / 294-26": [
@@ -929,6 +936,13 @@ assignments = {
       "title": "Homework 8 Self-Grades",
       "course": "EE 120",
       "dueDate": "2022-11-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/401330",
+      "submitted": false
+    },
+    {
+      "title": "Lab 3 Self Grades",
+      "course": "EE 120",
+      "dueDate": "2022-11-11T23:59:00",
       "link": "https://www.gradescope.com/courses/401330",
       "submitted": false
     }
