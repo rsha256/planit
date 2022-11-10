@@ -406,7 +406,7 @@ assignments = {
     {
       "title": "Project 5 - Facial Keypoint Detection with Neural Networks",
       "course": "CS 194-26 / 294-26",
-      "dueDate": "2022-11-09T23:59:00",
+      "dueDate": "2022-11-14T23:59:00",
       "link": "https://www.gradescope.com/courses/423262",
       "submitted": false
     }
