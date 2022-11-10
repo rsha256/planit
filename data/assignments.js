@@ -409,6 +409,13 @@ assignments = {
       "dueDate": "2022-11-14T23:59:00",
       "link": "https://www.gradescope.com/courses/423262",
       "submitted": false
+    },
+    {
+      "title": "Final Project Proposal (No need to submit if you choose to do pre-canned topics)",
+      "course": "CS 194-26 / 294-26",
+      "dueDate": "2022-11-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/423262",
+      "submitted": false
     }
   ],
   "CS 285": [
