@@ -335,15 +335,15 @@ assignments = {
       "title": "HW 7 (Code)",
       "course": "CS 182/282A",
       "dueDate": "2022-11-09T23:00:00",
-      "link": "https://www.gradescope.com/courses/425603",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/425603/assignments/2410838/submissions/147750554",
+      "submitted": true
     },
     {
       "title": "HW7 (Written)",
       "course": "CS 182/282A",
       "dueDate": "2022-11-09T23:00:00",
-      "link": "https://www.gradescope.com/courses/425603",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/425603/assignments/2410855/submissions/147751018",
+      "submitted": true
     },
     {
       "title": "Project Proposal",
@@ -356,15 +356,15 @@ assignments = {
       "title": "HW 7 (Self-Grade)",
       "course": "CS 182/282A",
       "dueDate": "2022-11-25T13:59:00",
-      "link": "https://www.gradescope.com/courses/425603",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/425603/assignments/2420273/submissions/147751287",
+      "submitted": true
     },
     {
       "title": "HW 7 (Resubmission)",
       "course": "CS 182/282A",
       "dueDate": "2022-11-25T23:00:00",
-      "link": "https://www.gradescope.com/courses/425603",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/425603/assignments/2420404/submissions/147752564",
+      "submitted": true
     }
   ],
   "CS 194-26 / 294-26": [
