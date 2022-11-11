@@ -348,7 +348,7 @@ assignments = {
     {
       "title": "Project Proposal",
       "course": "CS 182/282A",
-      "dueDate": "2022-11-10T23:00:00",
+      "dueDate": "2022-11-11T23:00:00",
       "link": "https://www.gradescope.com/courses/425603/assignments/2411029/submissions/147608557",
       "submitted": true
     },
