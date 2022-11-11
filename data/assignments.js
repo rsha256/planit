@@ -62,6 +62,20 @@ assignments = {
       "dueDate": "2022-11-10T21:00:00",
       "link": "https://www.gradescope.com/courses/420925",
       "submitted": false
+    },
+    {
+      "title": "hw8-benchmarks",
+      "course": "COMPSCI 164-LEC-001",
+      "dueDate": "2022-11-17T21:00:00",
+      "link": "https://www.gradescope.com/courses/420925",
+      "submitted": false
+    },
+    {
+      "title": "hw8",
+      "course": "COMPSCI 164-LEC-001",
+      "dueDate": "2022-12-01T21:00:00",
+      "link": "https://www.gradescope.com/courses/420925",
+      "submitted": false
     }
   ],
   "CS 182/282A": [
