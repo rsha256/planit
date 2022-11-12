@@ -801,8 +801,8 @@ assignments = {
       "title": "Lecture 22 Quiz (second try)",
       "course": "CS 285",
       "dueDate": "2022-11-11T17:00:00",
-      "link": "https://www.gradescope.com/courses/417906/assignments/2416707/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/417906/assignments/2416707/submissions/148253185",
+      "submitted": true
     }
   ],
   "EE 120": [
