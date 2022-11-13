@@ -971,7 +971,7 @@ assignments = {
       "title": "Homework 09",
       "course": "EE 120",
       "dueDate": "2022-11-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/401330/assignments/2415692/submissions/148349673",
+      "link": "https://www.gradescope.com/courses/401330/assignments/2415692/submissions/148463268",
       "submitted": true
     },
     {
