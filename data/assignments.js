@@ -999,8 +999,8 @@ assignments = {
       "title": "Homework 9 Self Grades",
       "course": "EE 120",
       "dueDate": "2022-11-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/401330",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/401330/assignments/2436681/submissions/148654758",
+      "submitted": true
     }
   ],
   "EECS 106A": [
