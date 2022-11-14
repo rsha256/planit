@@ -60,7 +60,7 @@ assignments = {
       "title": "hw7",
       "course": "COMPSCI 164-LEC-001",
       "dueDate": "2022-11-10T21:00:00",
-      "link": "https://www.gradescope.com/courses/420925/assignments/2407273/submissions/148419698",
+      "link": "https://www.gradescope.com/courses/420925/assignments/2407273/submissions/148614294",
       "submitted": true
     },
     {
