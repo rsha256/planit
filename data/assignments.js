@@ -223,8 +223,8 @@ assignments = {
       "title": "Lecture Demo Review 1 (PDF file with comments)",
       "course": "CS 182/282A",
       "dueDate": "2022-12-16T23:00:00",
-      "link": "https://www.gradescope.com/courses/425603",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/425603/assignments/2295928/submissions/148860585",
+      "submitted": true
     },
     {
       "title": "Lecture Demo (Round 1, zip file with code)",
