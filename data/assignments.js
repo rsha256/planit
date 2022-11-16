@@ -353,7 +353,7 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "HW7 (Written)",
+      "title": "HW 7 (Written)",
       "course": "CS 182/282A",
       "dueDate": "2022-11-09T23:00:00",
       "link": "https://www.gradescope.com/courses/425603/assignments/2410855/submissions/147751018",
@@ -381,7 +381,7 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "HW8 (Written)",
+      "title": "HW 8 (Written)",
       "course": "CS 182/282A",
       "dueDate": "2022-11-14T23:00:00",
       "link": "https://www.gradescope.com/courses/425603/assignments/2432359/submissions/148911770",
@@ -393,6 +393,13 @@ assignments = {
       "dueDate": "2022-11-14T23:00:00",
       "link": "https://www.gradescope.com/courses/425603/assignments/2432685/submissions/148828772",
       "submitted": true
+    },
+    {
+      "title": "HW 9 (Written)",
+      "course": "CS 182/282A",
+      "dueDate": "2022-11-22T23:00:00",
+      "link": "https://www.gradescope.com/courses/425603",
+      "submitted": false
     }
   ],
   "CS 194-26 / 294-26": [
