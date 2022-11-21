@@ -67,8 +67,8 @@ assignments = {
       "title": "hw8-benchmarks",
       "course": "COMPSCI 164-LEC-001",
       "dueDate": "2022-11-17T21:00:00",
-      "link": "https://www.gradescope.com/courses/420925",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/420925/assignments/2430637/submissions/150246508",
+      "submitted": true
     },
     {
       "title": "hw8",
