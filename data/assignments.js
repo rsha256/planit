@@ -991,7 +991,7 @@ assignments = {
     {
       "title": "Lab 4",
       "course": "EE 120",
-      "dueDate": "2022-11-18T23:59:00",
+      "dueDate": "2022-11-28T23:59:00",
       "link": "https://www.gradescope.com/courses/401330/assignments/2414839/submissions/148654149",
       "submitted": true
     },
