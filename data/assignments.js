@@ -1020,8 +1020,8 @@ assignments = {
       "title": "Homework 10",
       "course": "EE 120",
       "dueDate": "2022-11-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/401330",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/401330/assignments/2434804/submissions/150477164",
+      "submitted": true
     },
     {
       "title": "Homework 9 Self Grades",
