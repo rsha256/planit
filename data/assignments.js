@@ -852,6 +852,13 @@ assignments = {
       "dueDate": "2022-11-11T17:00:00",
       "link": "https://www.gradescope.com/courses/417906/assignments/2416707/submissions/148253185",
       "submitted": true
+    },
+    {
+      "title": "Final Project",
+      "course": "CS 285",
+      "dueDate": "2022-12-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/417906",
+      "submitted": false
     }
   ],
   "EE 120": [
