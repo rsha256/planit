@@ -1211,8 +1211,8 @@ assignments = {
       "title": "Departmental Feedback Form (Post-Midterm Feedback Form II)",
       "course": "EECS 106A",
       "dueDate": "2022-12-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/429119",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/429119/assignments/2458478/submissions/151174989",
+      "submitted": true
     }
   ]
 };
