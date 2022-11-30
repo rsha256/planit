@@ -433,8 +433,8 @@ assignments = {
       "title": "HW 9 (Resubmission)",
       "course": "CS 182/282A",
       "dueDate": "2022-12-11T23:00:00",
-      "link": "https://www.gradescope.com/courses/425603",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/425603/assignments/2463194/submissions/151365986",
+      "submitted": true
     }
   ],
   "CS 194-26 / 294-26": [
