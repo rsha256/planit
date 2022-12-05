@@ -1069,8 +1069,8 @@ assignments = {
       "title": "EE120-F22-MT2-2022-12-01-EXAM-QUESTIONS",
       "course": "EE 120",
       "dueDate": "2022-12-05T00:59:00",
-      "link": "https://www.gradescope.com/courses/401330/assignments/2474808/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/401330/assignments/2474808/submissions/152409471",
+      "submitted": true
     }
   ],
   "EECS 106A": [
