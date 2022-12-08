@@ -440,7 +440,7 @@ assignments = {
       "title": "Final Project (Option 1)",
       "course": "CS 182/282A",
       "dueDate": "2022-12-07T23:00:00",
-      "link": "https://www.gradescope.com/courses/425603/assignments/2481837/submissions/153176659",
+      "link": "https://www.gradescope.com/courses/425603/assignments/2481837/submissions/153177318",
       "submitted": true
     },
     {
