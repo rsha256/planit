@@ -1087,6 +1087,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "EE120-F22-MT2-2022-12-01-Pledge of Academic Integrity",
+      "course": "EE 120",
+      "dueDate": "2022-12-09T12:00:00",
+      "link": "https://www.gradescope.com/courses/401330/assignments/2474587/submissions/151810092",
+      "submitted": true
+    },
+    {
       "title": "EE120-F22-MT2-2022-12-01-EXAM-QUESTIONS",
       "course": "EE 120",
       "dueDate": "2022-12-05T00:59:00",
