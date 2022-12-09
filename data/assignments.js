@@ -463,6 +463,13 @@ assignments = {
       "dueDate": "2022-12-08T23:00:00",
       "link": "https://www.gradescope.com/courses/425603/assignments/2489044/submissions/153390771",
       "submitted": true
+    },
+    {
+      "title": "HW 10 (Resubmission)",
+      "course": "CS 182/282A",
+      "dueDate": "2022-12-11T23:00:00",
+      "link": "https://www.gradescope.com/courses/425603",
+      "submitted": false
     }
   ],
   "CS 194-26 / 294-26": [
