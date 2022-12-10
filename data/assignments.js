@@ -528,6 +528,20 @@ assignments = {
       "dueDate": "2022-11-11T23:59:00",
       "link": "https://www.gradescope.com/courses/423262",
       "submitted": false
+    },
+    {
+      "title": "[Pre-Canned] Final Project Code",
+      "course": "CS 194-26 / 294-26",
+      "dueDate": "2022-12-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/423262",
+      "submitted": false
+    },
+    {
+      "title": "[Proposed] Final Project Write Up",
+      "course": "CS 194-26 / 294-26",
+      "dueDate": "2022-12-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/423262",
+      "submitted": false
     }
   ],
   "CS 285": [
