@@ -1302,8 +1302,8 @@ assignments = {
       "title": "Final Project: Website Submissions",
       "course": "EECS 106A",
       "dueDate": "2022-12-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/429119/assignments/2501082/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/429119/assignments/2501082/submissions/154784410",
+      "submitted": true
     }
   ]
 };
