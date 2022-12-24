@@ -1096,7 +1096,7 @@ assignments = {
     {
       "title": "Lab 3 Self Grades",
       "course": "EE 120",
-      "dueDate": "2022-11-11T23:59:00",
+      "dueDate": "2022-12-25T23:59:00",
       "link": "https://www.gradescope.com/courses/401330/assignments/2420479/submissions/148313472",
       "submitted": true
     },
