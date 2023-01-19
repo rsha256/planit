@@ -8,5 +8,14 @@ assignments = {
       "submitted": false
     }
   ],
-  "CS 184/284A": []
+  "CS 184/284A": [],
+  "Stat157/260": [
+    {
+      "title": "HW 1",
+      "course": "Stat157/260",
+      "dueDate": "2023-01-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/499404",
+      "submitted": false
+    }
+  ]
 };
