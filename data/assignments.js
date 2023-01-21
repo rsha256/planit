@@ -21,8 +21,8 @@ assignments = {
       "title": "Discussion 1",
       "course": "Stat157/260",
       "dueDate": "2023-01-23T23:00:00",
-      "link": "https://www.gradescope.com/courses/499404",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/499404/assignments/2595293/submissions/156453371",
+      "submitted": true
     }
   ]
 };
