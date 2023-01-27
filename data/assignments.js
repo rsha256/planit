@@ -46,6 +46,13 @@ assignments = {
       "dueDate": "2023-01-31T11:59:00",
       "link": "https://www.gradescope.com/courses/499404",
       "submitted": false
+    },
+    {
+      "title": "Discussion 2",
+      "course": "Stat157/260",
+      "dueDate": "2023-01-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/499404",
+      "submitted": false
     }
   ]
 };
