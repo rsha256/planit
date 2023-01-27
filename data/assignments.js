@@ -16,6 +16,15 @@ assignments = {
     }
   ],
   "CS 184/284A": [],
+  "CS 288": [
+    {
+      "title": "HW1",
+      "course": "CS 288",
+      "dueDate": "2023-02-06T23:00:00",
+      "link": "https://www.gradescope.com/courses/500812",
+      "submitted": false
+    }
+  ],
   "Stat157/260": [
     {
       "title": "HW 1",
