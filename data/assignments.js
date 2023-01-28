@@ -21,8 +21,8 @@ assignments = {
       "title": "HW1",
       "course": "CS 288",
       "dueDate": "2023-02-06T23:00:00",
-      "link": "https://www.gradescope.com/courses/500812",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/500812/assignments/2597029/submissions/157766455",
+      "submitted": true
     }
   ],
   "Stat157/260": [
