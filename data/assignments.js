@@ -75,6 +75,13 @@ assignments = {
       "dueDate": "2023-01-30T23:59:00",
       "link": "https://www.gradescope.com/courses/499404/assignments/2614331/submissions/157692386",
       "submitted": true
+    },
+    {
+      "title": "HW 3",
+      "course": "Stat157/260",
+      "dueDate": "2023-02-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/499404",
+      "submitted": false
     }
   ]
 };
