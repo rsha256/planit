@@ -1,27 +1,4 @@
 assignments = {
-  "COMPSCI C191-LEC-001": [
-    {
-      "title": "Homework 1",
-      "course": "COMPSCI C191-LEC-001",
-      "dueDate": "2023-01-24T00:00:00",
-      "link": "https://www.gradescope.com/courses/493981/assignments/2580487/submissions/156856464",
-      "submitted": true
-    },
-    {
-      "title": "Homework 2",
-      "course": "COMPSCI C191-LEC-001",
-      "dueDate": "2023-01-31T00:00:00",
-      "link": "https://www.gradescope.com/courses/493981/assignments/2613807/submissions/158366051",
-      "submitted": true
-    },
-    {
-      "title": "Homework 3",
-      "course": "COMPSCI C191-LEC-001",
-      "dueDate": "2023-02-14T00:00:00",
-      "link": "https://www.gradescope.com/courses/493981",
-      "submitted": false
-    }
-  ],
   "CS 184/284A": [
     {
       "title": "HW 1 Checkpoint",
