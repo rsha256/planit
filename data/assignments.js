@@ -113,8 +113,8 @@ assignments = {
       "title": "Discussion 5",
       "course": "Stat157/260",
       "dueDate": "2023-02-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/499404",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/499404/assignments/2679215/submissions/162839989",
+      "submitted": true
     }
   ]
 };
