@@ -71,6 +71,13 @@ assignments = {
       "dueDate": "2023-02-22T23:00:00",
       "link": "https://www.gradescope.com/courses/500812",
       "submitted": false
+    },
+    {
+      "title": "HW3",
+      "course": "CS 288",
+      "dueDate": "2023-03-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/500812",
+      "submitted": false
     }
   ],
   "Stat157/260": [
@@ -134,8 +141,8 @@ assignments = {
       "title": "HW 5",
       "course": "Stat157/260",
       "dueDate": "2023-02-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/499404",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/499404/assignments/2675115/submissions/164076784",
+      "submitted": true
     },
     {
       "title": "Discussion 5",
