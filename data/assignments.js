@@ -29,13 +29,6 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Participation Tracker",
-      "course": "CS 184/284A",
-      "dueDate": "2023-02-22T18:00:00",
-      "link": "https://www.gradescope.com/courses/483806/assignments/2665249/submissions/163896349",
-      "submitted": true
-    },
-    {
       "title": "Project 3-2 Checkpoint",
       "course": "CS 184/284A",
       "dueDate": "2023-03-21T23:59:00",
