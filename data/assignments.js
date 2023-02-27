@@ -161,7 +161,7 @@ assignments = {
     {
       "title": "HW 6",
       "course": "Stat157/260",
-      "dueDate": "2023-02-28T23:59:00",
+      "dueDate": "2023-03-01T23:59:00",
       "link": "https://www.gradescope.com/courses/499404",
       "submitted": false
     }
