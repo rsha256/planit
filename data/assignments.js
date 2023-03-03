@@ -183,8 +183,8 @@ assignments = {
       "title": "Discussion 7",
       "course": "Stat157/260",
       "dueDate": "2023-03-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/499404",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/499404/assignments/2712965/submissions/166318698",
+      "submitted": true
     },
     {
       "title": "HW 7",
