@@ -180,6 +180,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Discussion 7",
+      "course": "Stat157/260",
+      "dueDate": "2023-03-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/499404",
+      "submitted": false
+    },
+    {
       "title": "HW 7",
       "course": "Stat157/260",
       "dueDate": "2023-03-07T23:59:00",
