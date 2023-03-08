@@ -74,7 +74,7 @@ assignments = {
       "title": "Exam 1",
       "course": "CS 184/284A",
       "dueDate": "2023-03-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/483806/assignments/2707953/submissions/new",
+      "link": "https://www.gradescope.com/courses/483806",
       "submitted": false
     },
     {
@@ -95,7 +95,7 @@ assignments = {
       "title": "Exam 1, 2x",
       "course": "CS 184/284A",
       "dueDate": "2023-03-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/483806/assignments/2725038/submissions/new",
+      "link": "https://www.gradescope.com/courses/483806",
       "submitted": false
     }
   ],
@@ -225,8 +225,8 @@ assignments = {
       "title": "HW 7",
       "course": "Stat157/260",
       "dueDate": "2023-03-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/499404",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/499404/assignments/2712972/submissions/167195887",
+      "submitted": true
     }
   ]
 };
