@@ -88,8 +88,8 @@ assignments = {
       "title": "Exam 1, 1.5x",
       "course": "CS 184/284A",
       "dueDate": "2023-03-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/483806/assignments/2725036/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/483806/assignments/2725036/submissions/167094342",
+      "submitted": true
     },
     {
       "title": "Exam 1, 2x",
