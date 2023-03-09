@@ -227,6 +227,13 @@ assignments = {
       "dueDate": "2023-03-07T23:59:00",
       "link": "https://www.gradescope.com/courses/499404/assignments/2712972/submissions/167195887",
       "submitted": true
+    },
+    {
+      "title": "HW 8",
+      "course": "Stat157/260",
+      "dueDate": "2023-03-15T23:59:00",
+      "link": "https://www.gradescope.com/courses/499404",
+      "submitted": false
     }
   ]
 };
