@@ -239,8 +239,8 @@ assignments = {
       "title": "Discussion 8",
       "course": "Stat157/260",
       "dueDate": "2023-03-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/499404",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/499404/assignments/2734052/submissions/167866137",
+      "submitted": true
     },
     {
       "title": "Mid-semester Survey",
