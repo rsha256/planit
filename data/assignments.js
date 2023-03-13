@@ -118,7 +118,7 @@ assignments = {
       "title": "HW3",
       "course": "CS 288",
       "dueDate": "2023-03-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/500812/assignments/2690737/submissions/168107657",
+      "link": "https://www.gradescope.com/courses/500812/assignments/2690737/submissions/168230040",
       "submitted": true
     },
     {
