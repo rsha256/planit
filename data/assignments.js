@@ -38,7 +38,7 @@ assignments = {
     {
       "title": "Project 3-1 Checkpoint",
       "course": "CS 184/284A",
-      "dueDate": "2023-03-08T23:59:00",
+      "dueDate": "2023-03-11T23:59:00",
       "link": "https://www.gradescope.com/courses/483806/assignments/2688745/submissions/165807521",
       "submitted": true
     },
@@ -59,7 +59,7 @@ assignments = {
     {
       "title": "Project 3-1: Pathtracer",
       "course": "CS 184/284A",
-      "dueDate": "2023-03-14T23:59:00",
+      "dueDate": "2023-03-17T23:59:00",
       "link": "https://www.gradescope.com/courses/483806",
       "submitted": false
     },
