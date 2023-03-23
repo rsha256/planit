@@ -269,6 +269,13 @@ assignments = {
       "dueDate": "2023-03-21T23:59:00",
       "link": "https://www.gradescope.com/courses/499404/assignments/2745032/submissions/169136494",
       "submitted": true
+    },
+    {
+      "title": "Homework 10",
+      "course": "Stat157/260",
+      "dueDate": "2023-04-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/499404",
+      "submitted": false
     }
   ]
 };
