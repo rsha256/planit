@@ -102,8 +102,8 @@ assignments = {
       "title": "Project 3-2: Pathtracer",
       "course": "CS 184/284A",
       "dueDate": "2023-03-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/483806",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/483806/assignments/2757546/submissions/170855034",
+      "submitted": true
     }
   ],
   "CS 288": [
