@@ -274,8 +274,8 @@ assignments = {
       "title": "Homework 10",
       "course": "Stat157/260",
       "dueDate": "2023-04-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/499404",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/499404/assignments/2765832/submissions/172752467",
+      "submitted": true
     }
   ]
 };
