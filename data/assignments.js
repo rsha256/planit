@@ -134,6 +134,13 @@ assignments = {
       "dueDate": "2023-04-05T23:00:00",
       "link": "https://www.gradescope.com/courses/500812",
       "submitted": false
+    },
+    {
+      "title": "HW5",
+      "course": "CS 288",
+      "dueDate": "2023-04-26T00:00:00",
+      "link": "https://www.gradescope.com/courses/500812",
+      "submitted": false
     }
   ],
   "Stat157/260": [
