@@ -132,7 +132,7 @@ assignments = {
       "title": "HW4",
       "course": "CS 288",
       "dueDate": "2023-04-05T23:00:00",
-      "link": "https://www.gradescope.com/courses/500812/assignments/2722936/submissions/173332418",
+      "link": "https://www.gradescope.com/courses/500812/assignments/2722936/submissions/173374135",
       "submitted": true
     },
     {
@@ -295,8 +295,8 @@ assignments = {
       "title": "Discussion 11",
       "course": "Stat157/260",
       "dueDate": "2023-04-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/499404",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/499404/assignments/2806238/submissions/173371699",
+      "submitted": true
     }
   ]
 };
