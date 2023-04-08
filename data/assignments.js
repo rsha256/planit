@@ -104,6 +104,20 @@ assignments = {
       "dueDate": "2023-03-24T23:59:00",
       "link": "https://www.gradescope.com/courses/483806/assignments/2757546/submissions/170857477",
       "submitted": true
+    },
+    {
+      "title": "Practice Exam 2 - Full Length (SP22)",
+      "course": "CS 184/284A",
+      "dueDate": "2023-05-20T00:00:00",
+      "link": "https://www.gradescope.com/courses/483806",
+      "submitted": false
+    },
+    {
+      "title": "Practice Exam 2",
+      "course": "CS 184/284A",
+      "dueDate": "2023-04-20T00:00:00",
+      "link": "https://www.gradescope.com/courses/483806",
+      "submitted": false
     }
   ],
   "CS 288": [
@@ -132,7 +146,7 @@ assignments = {
       "title": "HW4",
       "course": "CS 288",
       "dueDate": "2023-04-05T23:00:00",
-      "link": "https://www.gradescope.com/courses/500812/assignments/2722936/submissions/173430824",
+      "link": "https://www.gradescope.com/courses/500812/assignments/2722936/submissions/173439020",
       "submitted": true
     },
     {
