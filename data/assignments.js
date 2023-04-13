@@ -302,8 +302,8 @@ assignments = {
       "title": "Project Proposal",
       "course": "Stat157/260",
       "dueDate": "2023-04-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/499404",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/499404/assignments/2801030/submissions/174387792",
+      "submitted": true
     },
     {
       "title": "Discussion 11",
