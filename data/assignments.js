@@ -116,8 +116,8 @@ assignments = {
       "title": "Practice Exam 2",
       "course": "CS 184/284A",
       "dueDate": "2023-04-20T00:00:00",
-      "link": "https://www.gradescope.com/courses/483806",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/483806/assignments/2807419/submissions/174767498",
+      "submitted": true
     }
   ],
   "CS 288": [
