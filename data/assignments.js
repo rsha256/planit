@@ -31,7 +31,7 @@ assignments = {
     {
       "title": "Participation Tracker",
       "course": "CS 184/284A",
-      "dueDate": "2023-05-20T08:00:00",
+      "dueDate": "2023-05-31T08:00:00",
       "link": "https://www.gradescope.com/courses/483806/assignments/2665249/submissions/163896349",
       "submitted": true
     },
