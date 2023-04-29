@@ -178,6 +178,29 @@ assignments = {
       "submitted": true
     }
   ],
+  "Data 100 Exam Beta Testing": [
+    {
+      "title": "Midterm Exam Beta 2",
+      "course": "Data 100 Exam Beta Testing",
+      "dueDate": "2023-03-02T14:00:00",
+      "link": "https://www.gradescope.com/courses/517286",
+      "submitted": false
+    },
+    {
+      "title": "Final Beta Round 1",
+      "course": "Data 100 Exam Beta Testing",
+      "dueDate": "2023-04-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/517286",
+      "submitted": false
+    },
+    {
+      "title": "Final Beta Round 2",
+      "course": "Data 100 Exam Beta Testing",
+      "dueDate": "2023-04-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/517286",
+      "submitted": false
+    }
+  ],
   "Stat157/260": [
     {
       "title": "HW 1",
