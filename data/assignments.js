@@ -369,6 +369,13 @@ assignments = {
       "dueDate": "2023-04-19T00:15:00",
       "link": "https://www.gradescope.com/courses/499404/assignments/2821550/submissions/175721719",
       "submitted": true
+    },
+    {
+      "title": "Final Project Report",
+      "course": "Stat157/260",
+      "dueDate": "2023-05-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/499404",
+      "submitted": false
     }
   ]
 };
