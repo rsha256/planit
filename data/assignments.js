@@ -197,8 +197,8 @@ assignments = {
       "title": "Final Beta Round 2",
       "course": "Data 100 Exam Beta Testing",
       "dueDate": "2023-05-02T23:59:00",
-      "link": "https://www.gradescope.com/courses/517286",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/517286/assignments/2860506/submissions/178370488",
+      "submitted": true
     }
   ],
   "Stat157/260": [
