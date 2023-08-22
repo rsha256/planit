@@ -1,5 +1,6 @@
 assignments = {
   "CS 180/280A": [],
+  "Math 221": [],
   "Stat 156/256": [
     {
       "title": "Homework 1 for Stat 156",
