@@ -1,5 +1,6 @@
 assignments = {
   "CS 180/280A": [],
+  "DMA23": [],
   "Math 221": [
     {
       "title": "HW1",
