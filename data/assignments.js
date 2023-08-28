@@ -10,6 +10,7 @@ assignments = {
       "submitted": false
     }
   ],
+  "STAT 210A": [],
   "Stat 156/256": [
     {
       "title": "Homework 1 for Stat 156",
