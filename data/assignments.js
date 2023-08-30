@@ -8,7 +8,22 @@ assignments = {
       "submitted": false
     }
   ],
-  "DMA23": [],
+  "DMA23": [
+    {
+      "title": "Lab 1: Data Pre-Processing (.ipynb)",
+      "course": "DMA23",
+      "dueDate": "2023-09-06T12:00:00",
+      "link": "https://www.gradescope.com/courses/589310",
+      "submitted": false
+    },
+    {
+      "title": "Lab 1: Data Pre-Processing (.pdf)",
+      "course": "DMA23",
+      "dueDate": "2023-09-06T12:00:00",
+      "link": "https://www.gradescope.com/courses/589310",
+      "submitted": false
+    }
+  ],
   "Math 221": [
     {
       "title": "HW1",
