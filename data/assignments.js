@@ -24,6 +24,7 @@ assignments = {
       "submitted": true
     }
   ],
+  "IEOR 221": [],
   "Math 221": [
     {
       "title": "HW1",
