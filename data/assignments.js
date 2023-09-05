@@ -38,8 +38,8 @@ assignments = {
       "title": "HW1",
       "course": "Math 221",
       "dueDate": "2023-09-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/572432",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/572432/assignments/3150531/submissions/190333033",
+      "submitted": true
     }
   ],
   "STAT 210A": [
