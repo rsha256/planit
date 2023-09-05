@@ -9,9 +9,8 @@ information about assignments. **HTTP requests** are used alongside **Beautiful 
 which is automatically executed multiple times a day using **GitHub Actions**.
 
 <div align="center">
-    <a href="https://tanjeffreyz.github.io/planit"><b>Click here to see an example</b></a>
+    <img src="docs/planit.png" />
 </div>
-<br>
 
 
 ## One-time Setup Instructions
