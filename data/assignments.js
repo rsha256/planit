@@ -22,6 +22,20 @@ assignments = {
       "dueDate": "2023-09-06T12:00:00",
       "link": "https://www.gradescope.com/courses/589310/assignments/3180736/submissions/189889325",
       "submitted": true
+    },
+    {
+      "title": "Lab 2: Clustering (.ipynb)",
+      "course": "DMA23",
+      "dueDate": "2023-09-13T12:00:00",
+      "link": "https://www.gradescope.com/courses/589310",
+      "submitted": false
+    },
+    {
+      "title": "Lab 2: Clustering (.pdf)",
+      "course": "DMA23",
+      "dueDate": "2023-09-13T12:00:00",
+      "link": "https://www.gradescope.com/courses/589310",
+      "submitted": false
     }
   ],
   "IEOR 221": [
