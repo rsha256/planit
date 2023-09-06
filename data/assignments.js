@@ -63,8 +63,8 @@ assignments = {
       "title": "Homework 1 for Stat 156",
       "course": "Stat 156/256",
       "dueDate": "2023-09-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/572925",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/572925/assignments/3065665/submissions/190647325",
+      "submitted": true
     },
     {
       "title": "Reading Assignment 1 for Stat 256",
