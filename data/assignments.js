@@ -42,7 +42,7 @@ assignments = {
     {
       "title": "Homework 1",
       "course": "IEOR 221",
-      "dueDate": "2023-09-07T17:00:00",
+      "dueDate": "2023-09-14T17:00:00",
       "link": "https://www.gradescope.com/courses/603367",
       "submitted": false
     }
