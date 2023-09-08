@@ -45,6 +45,13 @@ assignments = {
       "dueDate": "2023-09-14T17:00:00",
       "link": "https://www.gradescope.com/courses/603367",
       "submitted": false
+    },
+    {
+      "title": "Homework 2",
+      "course": "IEOR 221",
+      "dueDate": "2023-09-14T17:00:00",
+      "link": "https://www.gradescope.com/courses/603367",
+      "submitted": false
     }
   ],
   "Math 221": [
@@ -76,6 +83,13 @@ assignments = {
       "course": "STAT 210A",
       "dueDate": "2023-09-07T23:59:00",
       "link": "https://www.gradescope.com/courses/585729/assignments/3267430/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "HW 2",
+      "course": "STAT 210A",
+      "dueDate": "2023-09-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/585729",
       "submitted": false
     }
   ],
