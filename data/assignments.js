@@ -6,6 +6,13 @@ assignments = {
       "dueDate": "2023-09-06T23:59:00",
       "link": "https://www.gradescope.com/courses/581661/assignments/3186346/submissions/191598436",
       "submitted": true
+    },
+    {
+      "title": "Project 2 - Fun with Filters and Frequencies",
+      "course": "CS 180/280A",
+      "dueDate": "2023-09-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/581661",
+      "submitted": false
     }
   ],
   "DMA23": [
