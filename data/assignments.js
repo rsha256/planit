@@ -34,14 +34,14 @@ assignments = {
       "title": "Lab 2: Clustering (.ipynb)",
       "course": "DMA23",
       "dueDate": "2023-09-13T12:00:00",
-      "link": "https://www.gradescope.com/courses/589310/assignments/3180737/submissions/192706312",
+      "link": "https://www.gradescope.com/courses/589310/assignments/3180737/submissions/192738838",
       "submitted": true
     },
     {
       "title": "Lab 2: Clustering (.pdf)",
       "course": "DMA23",
       "dueDate": "2023-09-13T12:00:00",
-      "link": "https://www.gradescope.com/courses/589310/assignments/3180738/submissions/192706464",
+      "link": "https://www.gradescope.com/courses/589310/assignments/3180738/submissions/192722250",
       "submitted": true
     }
   ],
