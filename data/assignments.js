@@ -73,6 +73,13 @@ assignments = {
       "dueDate": "2023-09-14T17:00:00",
       "link": "https://www.gradescope.com/courses/603367/assignments/3291344/submissions/192944289",
       "submitted": true
+    },
+    {
+      "title": "Homework 3",
+      "course": "IEOR 221",
+      "dueDate": "2023-09-21T17:00:00",
+      "link": "https://www.gradescope.com/courses/603367",
+      "submitted": false
     }
   ],
   "Math 221": [
