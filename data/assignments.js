@@ -110,15 +110,15 @@ assignments = {
       "title": "HW 2",
       "course": "STAT 210A",
       "dueDate": "2023-09-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/585729",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/585729/assignments/3291195/submissions/193312126",
+      "submitted": true
     },
     {
       "title": "Homework 2 post-mortem",
       "course": "STAT 210A",
       "dueDate": "2023-09-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/585729/assignments/3328482/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/585729/assignments/3328482/submissions/193315405",
+      "submitted": true
     }
   ],
   "Stat 156/256": [
