@@ -96,6 +96,13 @@ assignments = {
       "dueDate": "2023-09-11T23:59:00",
       "link": "https://www.gradescope.com/courses/572432/assignments/3289831/submissions/192227983",
       "submitted": true
+    },
+    {
+      "title": "HW3",
+      "course": "Math 221",
+      "dueDate": "2023-09-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/572432",
+      "submitted": false
     }
   ],
   "STAT 210A": [
@@ -126,6 +133,13 @@ assignments = {
       "dueDate": "2023-09-15T23:59:00",
       "link": "https://www.gradescope.com/courses/585729/assignments/3328482/submissions/193315405",
       "submitted": true
+    },
+    {
+      "title": "HW 3",
+      "course": "STAT 210A",
+      "dueDate": "2023-09-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/585729",
+      "submitted": false
     }
   ],
   "Stat 156/256": [
