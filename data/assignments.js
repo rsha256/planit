@@ -55,15 +55,15 @@ assignments = {
       "title": "Lab 3: Decision Trees (.ipynb)",
       "course": "DMA23",
       "dueDate": "2023-09-20T12:00:00",
-      "link": "https://www.gradescope.com/courses/589310",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/589310/assignments/3180739/submissions/194956429",
+      "submitted": true
     },
     {
       "title": "Lab 3: Decision Trees (.pdf)",
       "course": "DMA23",
       "dueDate": "2023-09-20T12:00:00",
-      "link": "https://www.gradescope.com/courses/589310",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/589310/assignments/3180740/submissions/194956986",
+      "submitted": true
     }
   ],
   "IEOR 221": [
