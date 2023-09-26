@@ -69,15 +69,15 @@ assignments = {
       "title": "Lab 4: Neural Networks (.ipynb)",
       "course": "DMA23",
       "dueDate": "2023-09-27T12:00:00",
-      "link": "https://www.gradescope.com/courses/589310",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/589310/assignments/3180741/submissions/196709265",
+      "submitted": true
     },
     {
       "title": "Lab 4: Neural Networks (.pdf)",
       "course": "DMA23",
       "dueDate": "2023-09-27T12:00:00",
-      "link": "https://www.gradescope.com/courses/589310",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/589310/assignments/3180742/submissions/196709278",
+      "submitted": true
     }
   ],
   "IEOR 221": [
