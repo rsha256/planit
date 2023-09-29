@@ -83,8 +83,8 @@ assignments = {
       "title": "Lab 5a: Baseline Checkpoint",
       "course": "DMA23",
       "dueDate": "2023-10-04T12:00:00",
-      "link": "https://www.gradescope.com/courses/589310",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/589310/assignments/3180743/submissions/198068197",
+      "submitted": true
     },
     {
       "title": "Lab 5b: Code for Kaggle Project",
