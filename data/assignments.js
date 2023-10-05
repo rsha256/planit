@@ -178,8 +178,8 @@ assignments = {
       "title": "HW5",
       "course": "Math 221",
       "dueDate": "2023-10-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/572432",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/572432/assignments/3448584/submissions/199672055",
+      "submitted": true
     },
     {
       "title": "HW6",
