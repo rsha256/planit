@@ -356,7 +356,7 @@ assignments = {
     {
       "title": "Homework 5 for Stat 156",
       "course": "Stat 156/256",
-      "dueDate": "2023-10-06T23:59:00",
+      "dueDate": "2023-10-18T23:59:00",
       "link": "https://www.gradescope.com/courses/572925",
       "submitted": false
     }
