@@ -192,8 +192,8 @@ assignments = {
       "title": "Project Proposals",
       "course": "Math 221",
       "dueDate": "2023-10-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/572432",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/572432/assignments/3486907/submissions/201061879",
+      "submitted": true
     }
   ],
   "STAT 210A": [
