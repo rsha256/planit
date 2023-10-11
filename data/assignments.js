@@ -104,8 +104,8 @@ assignments = {
       "title": "Lab 5b: Code for Kaggle Project",
       "course": "DMA23",
       "dueDate": "2023-10-11T12:00:00",
-      "link": "https://www.gradescope.com/courses/589310",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/589310/assignments/3180744/submissions/201429228",
+      "submitted": true
     }
   ],
   "IEOR 221": [
