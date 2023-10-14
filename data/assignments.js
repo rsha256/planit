@@ -199,8 +199,8 @@ assignments = {
       "title": "HW6",
       "course": "Math 221",
       "dueDate": "2023-10-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/572432",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/572432/assignments/3474130/submissions/202596828",
+      "submitted": true
     },
     {
       "title": "Project Proposals",
