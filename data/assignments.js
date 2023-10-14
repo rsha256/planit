@@ -148,8 +148,8 @@ assignments = {
       "title": "Midterm",
       "course": "IEOR 221",
       "dueDate": "2023-10-13T17:10:00",
-      "link": "https://www.gradescope.com/courses/603367",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/603367/assignments/3520053/submissions/202481995",
+      "submitted": true
     },
     {
       "title": "Homework 6",
