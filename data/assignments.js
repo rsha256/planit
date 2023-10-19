@@ -212,7 +212,7 @@ assignments = {
     {
       "title": "HW7",
       "course": "Math 221",
-      "dueDate": "2023-10-18T23:59:00",
+      "dueDate": "2023-10-20T23:59:00",
       "link": "https://www.gradescope.com/courses/572432",
       "submitted": false
     }
