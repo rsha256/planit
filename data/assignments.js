@@ -229,6 +229,13 @@ assignments = {
       "dueDate": "2023-10-20T23:59:00",
       "link": "https://www.gradescope.com/courses/572432/assignments/3535742/submissions/204847417",
       "submitted": true
+    },
+    {
+      "title": "HW8",
+      "course": "Math 221",
+      "dueDate": "2023-10-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/572432",
+      "submitted": false
     }
   ],
   "STAT 210A": [
