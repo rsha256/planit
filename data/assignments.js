@@ -322,6 +322,13 @@ assignments = {
       "dueDate": "2023-10-19T23:59:00",
       "link": "https://www.gradescope.com/courses/585729/assignments/3529834/submissions/204462378",
       "submitted": true
+    },
+    {
+      "title": "HW 8",
+      "course": "STAT 210A",
+      "dueDate": "2023-10-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/585729",
+      "submitted": false
     }
   ],
   "Stat 156/256": [
@@ -422,6 +429,13 @@ assignments = {
       "dueDate": "2023-10-18T23:59:00",
       "link": "https://www.gradescope.com/courses/572925/assignments/3496115/submissions/205194195",
       "submitted": true
+    },
+    {
+      "title": "Homework 6 for Stat 156",
+      "course": "Stat 156/256",
+      "dueDate": "2023-10-27T23:59:00",
+      "link": "https://www.gradescope.com/courses/572925",
+      "submitted": false
     }
   ]
 };
