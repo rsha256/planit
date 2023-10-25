@@ -113,6 +113,20 @@ assignments = {
       "dueDate": "2023-10-11T12:00:00",
       "link": "https://www.gradescope.com/courses/589310/assignments/3180744/submissions/201538793",
       "submitted": true
+    },
+    {
+      "title": "Lab 6: Skipgrams (.ipynb)",
+      "course": "DMA23",
+      "dueDate": "2023-11-01T12:00:00",
+      "link": "https://www.gradescope.com/courses/589310",
+      "submitted": false
+    },
+    {
+      "title": "Lab 6: Skipgrams (.pdf)",
+      "course": "DMA23",
+      "dueDate": "2023-11-01T12:00:00",
+      "link": "https://www.gradescope.com/courses/589310",
+      "submitted": false
     }
   ],
   "IEOR 221": [
