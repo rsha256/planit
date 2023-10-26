@@ -340,7 +340,7 @@ assignments = {
     {
       "title": "HW 8",
       "course": "STAT 210A",
-      "dueDate": "2023-10-25T23:59:00",
+      "dueDate": "2023-10-26T23:59:00",
       "link": "https://www.gradescope.com/courses/585729",
       "submitted": false
     }
