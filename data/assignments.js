@@ -355,7 +355,7 @@ assignments = {
       "title": "Homework 8 post-mortem",
       "course": "STAT 210A",
       "dueDate": "2023-10-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/585729/assignments/3592868/submissions/new",
+      "link": "https://www.gradescope.com/courses/585729",
       "submitted": false
     },
     {
