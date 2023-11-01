@@ -127,6 +127,20 @@ assignments = {
       "dueDate": "2023-11-01T12:00:00",
       "link": "https://www.gradescope.com/courses/589310/assignments/3180746/submissions/207695117",
       "submitted": true
+    },
+    {
+      "title": "Lab 7: Dimensionality Reduction (.ipynb)",
+      "course": "DMA23",
+      "dueDate": "2023-11-08T12:00:00",
+      "link": "https://www.gradescope.com/courses/589310",
+      "submitted": false
+    },
+    {
+      "title": "Lab 7: Dimensionality Reduction (.pdf)",
+      "course": "DMA23",
+      "dueDate": "2023-11-08T12:00:00",
+      "link": "https://www.gradescope.com/courses/589310",
+      "submitted": false
     }
   ],
   "IEOR 221": [
