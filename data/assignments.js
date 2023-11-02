@@ -406,6 +406,13 @@ assignments = {
       "dueDate": "2023-11-02T23:59:00",
       "link": "https://www.gradescope.com/courses/585729",
       "submitted": false
+    },
+    {
+      "title": "HW 10",
+      "course": "STAT 210A",
+      "dueDate": "2023-11-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/585729",
+      "submitted": false
     }
   ],
   "Stat 156/256": [
