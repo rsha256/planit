@@ -211,8 +211,8 @@ assignments = {
       "title": "Homework 8 part 1",
       "course": "IEOR 221",
       "dueDate": "2023-11-02T17:10:00",
-      "link": "https://www.gradescope.com/courses/603367",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/603367/assignments/3616586/submissions/208932556",
+      "submitted": true
     },
     {
       "title": "Homework 8 part 2",
