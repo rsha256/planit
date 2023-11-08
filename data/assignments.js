@@ -422,6 +422,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Homework 10 post-mortem",
+      "course": "STAT 210A",
+      "dueDate": "2023-11-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/585729/assignments/3592887/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "HW9",
       "course": "STAT 210A",
       "dueDate": "2023-11-02T23:59:00",
