@@ -148,13 +148,6 @@ assignments = {
       "dueDate": "2023-11-08T12:00:00",
       "link": "https://www.gradescope.com/courses/589310/assignments/3180748/submissions/210610046",
       "submitted": true
-    },
-    {
-      "title": "Final Project Paper (.pdf) - EDUC 244 only",
-      "course": "DMA23",
-      "dueDate": "2023-12-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/589310",
-      "submitted": false
     }
   ],
   "IEOR 221": [
