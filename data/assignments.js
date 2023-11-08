@@ -139,15 +139,15 @@ assignments = {
       "title": "Lab 7: Dimensionality Reduction (.ipynb)",
       "course": "DMA23",
       "dueDate": "2023-11-08T12:00:00",
-      "link": "https://www.gradescope.com/courses/589310",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/589310/assignments/3180747/submissions/210610037",
+      "submitted": true
     },
     {
       "title": "Lab 7: Dimensionality Reduction (.pdf)",
       "course": "DMA23",
       "dueDate": "2023-11-08T12:00:00",
-      "link": "https://www.gradescope.com/courses/589310",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/589310/assignments/3180748/submissions/210610046",
+      "submitted": true
     },
     {
       "title": "Final Project Paper (.pdf) - EDUC 244 only",
