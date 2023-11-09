@@ -148,6 +148,34 @@ assignments = {
       "dueDate": "2023-11-09T12:00:00",
       "link": "https://www.gradescope.com/courses/589310/assignments/3180748/submissions/210610046",
       "submitted": true
+    },
+    {
+      "title": "Lab 8: RNNs (.ipynb)",
+      "course": "DMA23",
+      "dueDate": "2023-11-15T12:00:00",
+      "link": "https://www.gradescope.com/courses/589310",
+      "submitted": false
+    },
+    {
+      "title": "Lab 8: RNNs (.pdf)",
+      "course": "DMA23",
+      "dueDate": "2023-11-15T12:00:00",
+      "link": "https://www.gradescope.com/courses/589310",
+      "submitted": false
+    },
+    {
+      "title": "Final Project Presentation (.pdf)",
+      "course": "DMA23",
+      "dueDate": "2023-12-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/589310",
+      "submitted": false
+    },
+    {
+      "title": "Final Project Code (.ipynb/.zip)",
+      "course": "DMA23",
+      "dueDate": "2023-12-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/589310",
+      "submitted": false
     }
   ],
   "IEOR 221": [
