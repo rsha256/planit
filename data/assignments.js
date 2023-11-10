@@ -246,15 +246,15 @@ assignments = {
       "title": "Homework 8 part 2",
       "course": "IEOR 221",
       "dueDate": "2023-11-09T17:10:00",
-      "link": "https://www.gradescope.com/courses/603367",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/603367/assignments/3616587/submissions/211269388",
+      "submitted": true
     },
     {
       "title": "Homework 9",
       "course": "IEOR 221",
       "dueDate": "2023-11-09T17:10:00",
-      "link": "https://www.gradescope.com/courses/603367",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/603367/assignments/3632795/submissions/211244627",
+      "submitted": true
     }
   ],
   "Math 221": [
