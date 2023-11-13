@@ -611,6 +611,20 @@ assignments = {
       "dueDate": "2023-11-15T23:59:00",
       "link": "https://www.gradescope.com/courses/572925",
       "submitted": false
+    },
+    {
+      "title": "Final project proposal for Stat 156",
+      "course": "Stat 156/256",
+      "dueDate": "2023-12-08T17:00:00",
+      "link": "https://www.gradescope.com/courses/572925",
+      "submitted": false
+    },
+    {
+      "title": "Final project for Stat 156",
+      "course": "Stat 156/256",
+      "dueDate": "2023-12-15T17:00:00",
+      "link": "https://www.gradescope.com/courses/572925",
+      "submitted": false
     }
   ]
 };
