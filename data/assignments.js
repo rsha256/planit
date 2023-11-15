@@ -153,15 +153,15 @@ assignments = {
       "title": "Lab 8: RNNs (.ipynb)",
       "course": "DMA23",
       "dueDate": "2023-11-15T12:00:00",
-      "link": "https://www.gradescope.com/courses/589310",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/589310/assignments/3180749/submissions/212950768",
+      "submitted": true
     },
     {
       "title": "Lab 8: RNNs (.pdf)",
       "course": "DMA23",
       "dueDate": "2023-11-15T12:00:00",
-      "link": "https://www.gradescope.com/courses/589310",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/589310/assignments/3180750/submissions/212950904",
+      "submitted": true
     },
     {
       "title": "Final Project Presentation (.pdf)",
