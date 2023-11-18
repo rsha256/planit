@@ -46,7 +46,7 @@ assignments = {
       "title": "Project 5",
       "course": "CS 180/280A",
       "dueDate": "2023-11-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/581661/assignments/3626531/submissions/213629517",
+      "link": "https://www.gradescope.com/courses/581661/assignments/3626531/submissions/213904788",
       "submitted": true
     }
   ],
