@@ -176,6 +176,13 @@ assignments = {
       "dueDate": "2023-12-05T23:59:00",
       "link": "https://www.gradescope.com/courses/589310",
       "submitted": false
+    },
+    {
+      "title": "Lab Redo",
+      "course": "DMA23",
+      "dueDate": "2023-12-08T12:00:00",
+      "link": "https://www.gradescope.com/courses/589310/assignments/3709694/submissions/new",
+      "submitted": false
     }
   ],
   "IEOR 221": [
