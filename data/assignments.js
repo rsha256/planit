@@ -274,8 +274,8 @@ assignments = {
       "title": "Homework 11",
       "course": "IEOR 221",
       "dueDate": "2023-11-30T17:10:00",
-      "link": "https://www.gradescope.com/courses/603367",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/603367/assignments/3717942/submissions/216071303",
+      "submitted": true
     }
   ],
   "Math 221": [
