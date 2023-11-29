@@ -69,7 +69,7 @@ assignments = {
       "title": "Lab 2: Clustering (.ipynb)",
       "course": "DMA23",
       "dueDate": "2023-09-13T12:00:00",
-      "link": "https://www.gradescope.com/courses/589310/assignments/3180737/submissions/192738838",
+      "link": "https://www.gradescope.com/courses/589310/assignments/3180737/submissions/216060685",
       "submitted": true
     },
     {
@@ -181,8 +181,8 @@ assignments = {
       "title": "Lab Redo",
       "course": "DMA23",
       "dueDate": "2023-12-08T12:00:00",
-      "link": "https://www.gradescope.com/courses/589310/assignments/3709694/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/589310/assignments/3709694/submissions/216060575",
+      "submitted": true
     }
   ],
   "IEOR 221": [
