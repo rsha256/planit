@@ -167,15 +167,15 @@ assignments = {
       "title": "Final Project Presentation (.pdf)",
       "course": "DMA23",
       "dueDate": "2023-12-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/589310",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/589310/assignments/3648820/submissions/217977593",
+      "submitted": true
     },
     {
       "title": "Final Project Code (.ipynb/.zip)",
       "course": "DMA23",
       "dueDate": "2023-12-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/589310",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/589310/assignments/3648841/submissions/217977123",
+      "submitted": true
     },
     {
       "title": "Lab Redo",
