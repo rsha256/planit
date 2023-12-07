@@ -180,7 +180,7 @@ assignments = {
     {
       "title": "Lab Redo",
       "course": "DMA23",
-      "dueDate": "2023-12-08T12:00:00",
+      "dueDate": "2023-12-09T12:00:00",
       "link": "https://www.gradescope.com/courses/589310/assignments/3709694/submissions/216060575",
       "submitted": true
     }
