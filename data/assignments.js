@@ -381,8 +381,8 @@ assignments = {
       "title": "HW14",
       "course": "Math 221",
       "dueDate": "2023-12-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/572432",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/572432/assignments/3751839/submissions/218321072",
+      "submitted": true
     },
     {
       "title": "Final Project",
