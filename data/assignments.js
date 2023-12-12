@@ -502,8 +502,8 @@ assignments = {
       "title": "HW 8",
       "course": "STAT 210A",
       "dueDate": "2023-10-26T23:59:00",
-      "link": "https://www.gradescope.com/courses/585729",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/585729/assignments/3571717/submissions/219792009",
+      "submitted": true
     },
     {
       "title": "Homework 8 post-mortem",
@@ -551,8 +551,8 @@ assignments = {
       "title": "HW 11",
       "course": "STAT 210A",
       "dueDate": "2023-11-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/585729",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/585729/assignments/3663542/submissions/219792713",
+      "submitted": true
     }
   ],
   "Stat 156/256": [
