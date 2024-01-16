@@ -1,4 +1,5 @@
 assignments = {
+  "Data 102": [],
   "MATH 228B-LEC-001": [
     {
       "title": "Problem Set 1",
