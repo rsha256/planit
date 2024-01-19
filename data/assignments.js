@@ -1,5 +1,13 @@
 assignments = {
-  "Data 102": [],
+  "Data 102": [
+    {
+      "title": "Vitamin 1",
+      "course": "Data 102",
+      "dueDate": "2024-01-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/711377/assignments/3967861/submissions/223311914",
+      "submitted": true
+    }
+  ],
   "MATH 228B-LEC-001": [
     {
       "title": "Problem Set 1",
