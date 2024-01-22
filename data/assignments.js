@@ -8,14 +8,14 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Lab 1",
+      "title": "Lab 1 Code",
       "course": "Data 102",
       "dueDate": "2024-01-24T17:00:00",
       "link": "https://www.gradescope.com/courses/711377/assignments/3980879/submissions/223780905",
       "submitted": true
     },
     {
-      "title": "Lab 1 PDF",
+      "title": "Lab 1 Written",
       "course": "Data 102",
       "dueDate": "2024-01-24T17:00:00",
       "link": "https://www.gradescope.com/courses/711377/assignments/3980922/submissions/223782079",
