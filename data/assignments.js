@@ -6,6 +6,20 @@ assignments = {
       "dueDate": "2024-01-21T23:59:00",
       "link": "https://www.gradescope.com/courses/711377/assignments/3967861/submissions/223311914",
       "submitted": true
+    },
+    {
+      "title": "Lab 1",
+      "course": "Data 102",
+      "dueDate": "2024-01-24T17:00:00",
+      "link": "https://www.gradescope.com/courses/711377",
+      "submitted": false
+    },
+    {
+      "title": "Lab 1 PDF",
+      "course": "Data 102",
+      "dueDate": "2024-01-24T17:00:00",
+      "link": "https://www.gradescope.com/courses/711377",
+      "submitted": false
     }
   ],
   "MATH 228B-LEC-001": [
