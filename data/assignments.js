@@ -81,5 +81,21 @@ assignments = {
       "link": "https://www.gradescope.com/courses/697505",
       "submitted": false
     }
+  ],
+  "STAT 157-SEM-001": [
+    {
+      "title": "Practice Quiz 1: Entropy",
+      "course": "STAT 157-SEM-001",
+      "dueDate": "2024-02-01T15:30:00",
+      "link": "https://www.gradescope.com/courses/708637/assignments/3984163/submissions/224238570",
+      "submitted": true
+    },
+    {
+      "title": "Practice Quiz 2: Mutual Information and Information Inequalities (I)",
+      "course": "STAT 157-SEM-001",
+      "dueDate": "2024-02-01T15:30:00",
+      "link": "https://www.gradescope.com/courses/708637/assignments/3986087/submissions/new",
+      "submitted": false
+    }
   ]
 };
