@@ -20,6 +20,13 @@ assignments = {
       "dueDate": "2024-01-24T17:00:00",
       "link": "https://www.gradescope.com/courses/711377/assignments/3980922/submissions/223782079",
       "submitted": true
+    },
+    {
+      "title": "Homework 1",
+      "course": "Data 102",
+      "dueDate": "2024-02-02T17:00:00",
+      "link": "https://www.gradescope.com/courses/711377",
+      "submitted": false
     }
   ],
   "MATH 113-LEC-005": [
