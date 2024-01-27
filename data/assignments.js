@@ -32,8 +32,8 @@ assignments = {
       "title": "Vitamin 2",
       "course": "Data 102",
       "dueDate": "2024-01-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/711377/assignments/4008832/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4008832/submissions/225146723",
+      "submitted": true
     }
   ],
   "MATH 113-LEC-005": [
