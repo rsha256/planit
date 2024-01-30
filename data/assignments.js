@@ -129,8 +129,8 @@ assignments = {
       "title": "Practice Quiz 3: Encoding, Compression, and Search Trees (Part I)",
       "course": "STAT 157-SEM-001",
       "dueDate": "2024-02-13T15:30:00",
-      "link": "https://www.gradescope.com/courses/708637/assignments/4023061/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/708637/assignments/4023061/submissions/225916110",
+      "submitted": true
     }
   ]
 };
