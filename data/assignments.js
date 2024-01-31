@@ -39,15 +39,15 @@ assignments = {
       "title": "Lab 2 Code",
       "course": "Data 102",
       "dueDate": "2024-01-31T17:00:00",
-      "link": "https://www.gradescope.com/courses/711377",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4016133/submissions/225998545",
+      "submitted": true
     },
     {
       "title": "Lab 2 Written",
       "course": "Data 102",
       "dueDate": "2024-01-31T17:00:00",
-      "link": "https://www.gradescope.com/courses/711377",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4016136/submissions/225998947",
+      "submitted": true
     }
   ],
   "MATH 113-LEC-005": [
@@ -57,6 +57,13 @@ assignments = {
       "dueDate": "2024-01-29T23:59:00",
       "link": "https://www.gradescope.com/courses/708525/assignments/3963889/submissions/225783372",
       "submitted": true
+    },
+    {
+      "title": "HW 2",
+      "course": "MATH 113-LEC-005",
+      "dueDate": "2024-02-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/708525",
+      "submitted": false
     }
   ],
   "MATH 228B-LEC-001": [
