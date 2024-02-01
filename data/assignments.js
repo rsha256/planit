@@ -25,8 +25,8 @@ assignments = {
       "title": "Homework 1",
       "course": "Data 102",
       "dueDate": "2024-02-02T17:00:00",
-      "link": "https://www.gradescope.com/courses/711377",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4005576/submissions/226547911",
+      "submitted": true
     },
     {
       "title": "Vitamin 2",
