@@ -145,6 +145,13 @@ assignments = {
       "dueDate": "2024-02-13T15:30:00",
       "link": "https://www.gradescope.com/courses/708637/assignments/4023061/submissions/225916110",
       "submitted": true
+    },
+    {
+      "title": "Practice Quiz 4: Encoding, Compression, and Search Trees (Part II)",
+      "course": "STAT 157-SEM-001",
+      "dueDate": "2024-02-13T15:30:00",
+      "link": "https://www.gradescope.com/courses/708637/assignments/4053688/submissions/new",
+      "submitted": false
     }
   ]
 };
