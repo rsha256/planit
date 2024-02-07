@@ -60,15 +60,15 @@ assignments = {
       "title": "Lab 3 Code",
       "course": "Data 102",
       "dueDate": "2024-02-07T17:00:00",
-      "link": "https://www.gradescope.com/courses/711377",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4058310/submissions/228298277",
+      "submitted": true
     },
     {
       "title": "Lab 3 Written",
       "course": "Data 102",
       "dueDate": "2024-02-07T17:00:00",
-      "link": "https://www.gradescope.com/courses/711377",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4058334/submissions/228297984",
+      "submitted": true
     }
   ],
   "MATH 113-LEC-005": [
