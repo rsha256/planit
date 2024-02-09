@@ -69,6 +69,13 @@ assignments = {
       "dueDate": "2024-02-07T17:00:00",
       "link": "https://www.gradescope.com/courses/711377/assignments/4058334/submissions/228297984",
       "submitted": true
+    },
+    {
+      "title": "Vitamin 4",
+      "course": "Data 102",
+      "dueDate": "2024-02-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/711377/assignments/4074640/submissions/new",
+      "submitted": false
     }
   ],
   "MATH 113-LEC-005": [
@@ -164,8 +171,8 @@ assignments = {
       "title": "Practice Quiz 4: Encoding, Compression, and Search Trees (Part II)",
       "course": "STAT 157-SEM-001",
       "dueDate": "2024-02-13T15:30:00",
-      "link": "https://www.gradescope.com/courses/708637/assignments/4053688/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/708637/assignments/4053688/submissions/229001317",
+      "submitted": true
     }
   ]
 };
