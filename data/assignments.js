@@ -73,7 +73,7 @@ assignments = {
     {
       "title": "Vitamin 4",
       "course": "Data 102",
-      "dueDate": "2024-02-24T23:59:00",
+      "dueDate": "2024-02-11T23:59:00",
       "link": "https://www.gradescope.com/courses/711377/assignments/4074640/submissions/229051715",
       "submitted": true
     },
@@ -88,6 +88,13 @@ assignments = {
       "title": "Lab 4 Written",
       "course": "Data 102",
       "dueDate": "2024-02-14T17:00:00",
+      "link": "https://www.gradescope.com/courses/711377",
+      "submitted": false
+    },
+    {
+      "title": "Homework 2",
+      "course": "Data 102",
+      "dueDate": "2024-02-16T17:00:00",
       "link": "https://www.gradescope.com/courses/711377",
       "submitted": false
     }
