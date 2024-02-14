@@ -81,15 +81,15 @@ assignments = {
       "title": "Lab 4 Code",
       "course": "Data 102",
       "dueDate": "2024-02-14T17:00:00",
-      "link": "https://www.gradescope.com/courses/711377",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4087409/submissions/230758281",
+      "submitted": true
     },
     {
       "title": "Lab 4 Written",
       "course": "Data 102",
       "dueDate": "2024-02-14T17:00:00",
-      "link": "https://www.gradescope.com/courses/711377",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4087413/submissions/230775393",
+      "submitted": true
     },
     {
       "title": "Homework 2",
