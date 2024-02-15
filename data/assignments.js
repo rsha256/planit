@@ -81,8 +81,8 @@ assignments = {
       "title": "Vitamin 5",
       "course": "Data 102",
       "dueDate": "2024-02-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/711377/assignments/4074681/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4074681/submissions/231169767",
+      "submitted": true
     },
     {
       "title": "Lab 4 Code",
