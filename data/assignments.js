@@ -213,8 +213,8 @@ assignments = {
       "title": "Practice Quiz 5: Asymptotic Equipartition and Typical Sets",
       "course": "STAT 157-SEM-001",
       "dueDate": "2024-02-15T15:30:00",
-      "link": "https://www.gradescope.com/courses/708637/assignments/4081127/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/708637/assignments/4081127/submissions/231173874",
+      "submitted": true
     }
   ]
 };
