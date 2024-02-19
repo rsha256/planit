@@ -104,6 +104,13 @@ assignments = {
       "dueDate": "2024-02-18T17:00:00",
       "link": "https://www.gradescope.com/courses/711377/assignments/4101191/submissions/231894350",
       "submitted": true
+    },
+    {
+      "title": "Lab 5 Code",
+      "course": "Data 102",
+      "dueDate": "2024-02-23T17:00:00",
+      "link": "https://www.gradescope.com/courses/711377",
+      "submitted": false
     }
   ],
   "MATH 113-LEC-005": [
