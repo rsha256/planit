@@ -111,6 +111,13 @@ assignments = {
       "dueDate": "2024-02-23T17:00:00",
       "link": "https://www.gradescope.com/courses/711377",
       "submitted": false
+    },
+    {
+      "title": "Lab 5 Written",
+      "course": "Data 102",
+      "dueDate": "2024-02-23T17:00:00",
+      "link": "https://www.gradescope.com/courses/711377",
+      "submitted": false
     }
   ],
   "MATH 113-LEC-005": [
