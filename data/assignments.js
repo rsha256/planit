@@ -102,7 +102,7 @@ assignments = {
       "title": "Homework 2",
       "course": "Data 102",
       "dueDate": "2024-02-18T17:00:00",
-      "link": "https://www.gradescope.com/courses/711377/assignments/4101191/submissions/231894350",
+      "link": "https://www.gradescope.com/courses/711377/assignments/4101191/submissions/232075801",
       "submitted": true
     },
     {
