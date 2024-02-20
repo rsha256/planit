@@ -241,8 +241,8 @@ assignments = {
       "title": "Practice Quiz 6: Differential Entropy",
       "course": "STAT 157-SEM-001",
       "dueDate": "2024-02-22T15:30:00",
-      "link": "https://www.gradescope.com/courses/708637/assignments/4129214/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/708637/assignments/4129214/submissions/232452593",
+      "submitted": true
     }
   ]
 };
