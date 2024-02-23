@@ -118,6 +118,13 @@ assignments = {
       "dueDate": "2024-02-23T17:00:00",
       "link": "https://www.gradescope.com/courses/711377",
       "submitted": false
+    },
+    {
+      "title": "Vitamin 6",
+      "course": "Data 102",
+      "dueDate": "2024-02-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/711377/assignments/4144859/submissions/new",
+      "submitted": false
     }
   ],
   "MATH 113-LEC-005": [
