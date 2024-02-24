@@ -108,16 +108,16 @@ assignments = {
     {
       "title": "Lab 5 Code",
       "course": "Data 102",
-      "dueDate": "2024-02-23T17:00:00",
-      "link": "https://www.gradescope.com/courses/711377",
-      "submitted": false
+      "dueDate": "2024-02-23T17:30:00",
+      "link": "https://www.gradescope.com/courses/711377/assignments/4122071/submissions/233714417",
+      "submitted": true
     },
     {
       "title": "Lab 5 Written",
       "course": "Data 102",
       "dueDate": "2024-02-23T17:00:00",
-      "link": "https://www.gradescope.com/courses/711377",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4122087/submissions/233713469",
+      "submitted": true
     },
     {
       "title": "Vitamin 6",
