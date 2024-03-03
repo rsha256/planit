@@ -204,8 +204,8 @@ assignments = {
       "title": "HW 5",
       "course": "MATH 113-LEC-005",
       "dueDate": "2024-03-03T17:11:00",
-      "link": "https://www.gradescope.com/courses/708525",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/708525/assignments/4171951/submissions/236206571",
+      "submitted": true
     }
   ],
   "MATH 228B-LEC-001": [
