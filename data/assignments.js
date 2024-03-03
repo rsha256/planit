@@ -203,7 +203,7 @@ assignments = {
     {
       "title": "HW 5",
       "course": "MATH 113-LEC-005",
-      "dueDate": "2024-03-01T23:59:00",
+      "dueDate": "2024-03-03T17:11:00",
       "link": "https://www.gradescope.com/courses/708525",
       "submitted": false
     }
@@ -305,9 +305,9 @@ assignments = {
     {
       "title": "Practice Quiz 7: Information (Inequalities and Divergences)",
       "course": "STAT 157-SEM-001",
-      "dueDate": "2024-02-22T15:30:00",
-      "link": "https://www.gradescope.com/courses/708637/assignments/4186901/submissions/236090486",
-      "submitted": true
+      "dueDate": "2024-03-07T15:30:00",
+      "link": "https://www.gradescope.com/courses/708637/assignments/4186901/submissions/new",
+      "submitted": false
     }
   ]
 };
