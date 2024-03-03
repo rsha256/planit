@@ -306,8 +306,8 @@ assignments = {
       "title": "Practice Quiz 7: Information (Inequalities and Divergences)",
       "course": "STAT 157-SEM-001",
       "dueDate": "2024-03-07T15:30:00",
-      "link": "https://www.gradescope.com/courses/708637/assignments/4186901/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/708637/assignments/4186901/submissions/236115330",
+      "submitted": true
     }
   ]
 };
