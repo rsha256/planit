@@ -130,8 +130,8 @@ assignments = {
       "title": "Lab 6 Written",
       "course": "Data 102",
       "dueDate": "2024-03-06T17:00:00",
-      "link": "https://www.gradescope.com/courses/711377",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4192889/submissions/237044123",
+      "submitted": true
     },
     {
       "title": "Lab 6 Code",
@@ -139,6 +139,13 @@ assignments = {
       "dueDate": "2024-03-06T17:00:00",
       "link": "https://www.gradescope.com/courses/711377/assignments/4192908/submissions/237043576",
       "submitted": true
+    },
+    {
+      "title": "Homework 3",
+      "course": "Data 102",
+      "dueDate": "2024-03-08T17:00:00",
+      "link": "https://www.gradescope.com/courses/711377",
+      "submitted": false
     }
   ],
   "Data 102 Vitamins": [
