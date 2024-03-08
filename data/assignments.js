@@ -151,8 +151,8 @@ assignments = {
       "title": "Vitamin 7",
       "course": "Data 102",
       "dueDate": "2024-03-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/711377/assignments/4211918/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4211918/submissions/237708703",
+      "submitted": true
     }
   ],
   "Data 102 Vitamins": [
