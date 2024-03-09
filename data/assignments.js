@@ -143,7 +143,7 @@ assignments = {
     {
       "title": "Homework 3",
       "course": "Data 102",
-      "dueDate": "2024-03-08T17:00:00",
+      "dueDate": "2024-03-08T23:59:00",
       "link": "https://www.gradescope.com/courses/711377",
       "submitted": false
     },
@@ -234,6 +234,13 @@ assignments = {
       "dueDate": "2024-03-03T17:11:00",
       "link": "https://www.gradescope.com/courses/708525/assignments/4171951/submissions/236206571",
       "submitted": true
+    },
+    {
+      "title": "HW 6",
+      "course": "MATH 113-LEC-005",
+      "dueDate": "2024-03-22T23:59:00",
+      "link": "https://www.gradescope.com/courses/708525",
+      "submitted": false
     }
   ],
   "MATH 228B-LEC-001": [
