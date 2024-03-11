@@ -348,15 +348,15 @@ assignments = {
       "title": "Practice Quiz 8: Maximum Entropy",
       "course": "STAT 157-SEM-001",
       "dueDate": "2024-03-14T15:30:00",
-      "link": "https://www.gradescope.com/courses/708637/assignments/4217440/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/708637/assignments/4217440/submissions/238142446",
+      "submitted": true
     },
     {
       "title": "Practice Quiz 9: Information and Statistics",
       "course": "STAT 157-SEM-001",
       "dueDate": "2024-03-14T15:30:00",
-      "link": "https://www.gradescope.com/courses/708637/assignments/4217523/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/708637/assignments/4217523/submissions/238141749",
+      "submitted": true
     }
   ]
 };
