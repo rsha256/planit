@@ -158,15 +158,15 @@ assignments = {
       "title": "Lab 7 Code",
       "course": "Data 102",
       "dueDate": "2024-03-13T17:00:00",
-      "link": "https://www.gradescope.com/courses/711377",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4219206/submissions/238356116",
+      "submitted": true
     },
     {
       "title": "Lab 7 Written",
       "course": "Data 102",
       "dueDate": "2024-03-13T17:00:00",
-      "link": "https://www.gradescope.com/courses/711377",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4219212/submissions/238356183",
+      "submitted": true
     }
   ],
   "Data 102 Vitamins": [
