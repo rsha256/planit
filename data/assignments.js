@@ -246,6 +246,13 @@ assignments = {
       "dueDate": "2024-05-11T23:59:00",
       "link": "https://www.gradescope.com/courses/742764/assignments/4214501/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Vitamin 8",
+      "course": "Data 102 Vitamins",
+      "dueDate": "2024-05-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/742764/assignments/4249341/submissions/new",
+      "submitted": false
     }
   ],
   "MATH 113-LEC-005": [
