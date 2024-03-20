@@ -172,15 +172,15 @@ assignments = {
       "title": "Lab 8 Code",
       "course": "Data 102",
       "dueDate": "2024-03-20T17:00:00",
-      "link": "https://www.gradescope.com/courses/711377",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4234704/submissions/240431310",
+      "submitted": true
     },
     {
       "title": "Lab 8 Written",
       "course": "Data 102",
       "dueDate": "2024-03-20T17:00:00",
-      "link": "https://www.gradescope.com/courses/711377",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4236120/submissions/240426982",
+      "submitted": true
     },
     {
       "title": "Vitamin 8",
