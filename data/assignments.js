@@ -195,6 +195,13 @@ assignments = {
       "dueDate": "2024-03-22T17:00:00",
       "link": "https://www.gradescope.com/courses/711377",
       "submitted": false
+    },
+    {
+      "title": "Vitamin 9",
+      "course": "Data 102",
+      "dueDate": "2024-03-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/711377/assignments/4262883/submissions/new",
+      "submitted": false
     }
   ],
   "Data 102 Vitamins": [
@@ -252,6 +259,13 @@ assignments = {
       "course": "Data 102 Vitamins",
       "dueDate": "2024-05-11T23:59:00",
       "link": "https://www.gradescope.com/courses/742764/assignments/4249341/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Vitamin 9",
+      "course": "Data 102 Vitamins",
+      "dueDate": "2024-05-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/742764",
       "submitted": false
     }
   ],
