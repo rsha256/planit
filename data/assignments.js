@@ -193,8 +193,8 @@ assignments = {
       "title": "Homework 4",
       "course": "Data 102",
       "dueDate": "2024-03-22T17:00:00",
-      "link": "https://www.gradescope.com/courses/711377",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4246284/submissions/241235111",
+      "submitted": true
     },
     {
       "title": "Vitamin 9",
