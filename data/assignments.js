@@ -202,6 +202,13 @@ assignments = {
       "dueDate": "2024-03-31T23:59:00",
       "link": "https://www.gradescope.com/courses/711377/assignments/4262883/submissions/241153686",
       "submitted": true
+    },
+    {
+      "title": "Homework 5",
+      "course": "Data 102",
+      "dueDate": "2024-04-05T17:00:00",
+      "link": "https://www.gradescope.com/courses/711377/assignments/4268223/submissions/241344324",
+      "submitted": true
     }
   ],
   "Data 102 Vitamins": [
