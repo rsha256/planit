@@ -455,6 +455,13 @@ assignments = {
       "dueDate": "2024-03-14T15:30:00",
       "link": "https://www.gradescope.com/courses/708637/assignments/4217523/submissions/238141749",
       "submitted": true
+    },
+    {
+      "title": "Practice Quiz 10: Stochastic Processes",
+      "course": "STAT 157-SEM-001",
+      "dueDate": "2024-04-04T15:30:00",
+      "link": "https://www.gradescope.com/courses/708637/assignments/4305273/submissions/new",
+      "submitted": false
     }
   ]
 };
