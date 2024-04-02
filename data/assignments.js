@@ -469,6 +469,13 @@ assignments = {
       "dueDate": "2024-04-04T15:30:00",
       "link": "https://www.gradescope.com/courses/708637/assignments/4305273/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Practice Quiz 11: Entropy Rates and Mixing Inequalities",
+      "course": "STAT 157-SEM-001",
+      "dueDate": "2024-04-04T15:30:00",
+      "link": "https://www.gradescope.com/courses/708637/assignments/4305341/submissions/new",
+      "submitted": false
     }
   ]
 };
