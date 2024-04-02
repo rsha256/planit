@@ -207,8 +207,8 @@ assignments = {
       "title": "Lab 9 Written",
       "course": "Data 102",
       "dueDate": "2024-04-03T17:00:00",
-      "link": "https://www.gradescope.com/courses/711377",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4268209/submissions/243416015",
+      "submitted": true
     },
     {
       "title": "Lab 9 Code",
