@@ -214,8 +214,8 @@ assignments = {
       "title": "Lab 9 Code",
       "course": "Data 102",
       "dueDate": "2024-04-03T17:00:00",
-      "link": "https://www.gradescope.com/courses/711377",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4268219/submissions/243341519",
+      "submitted": true
     },
     {
       "title": "Homework 5",
@@ -332,6 +332,13 @@ assignments = {
       "dueDate": "2024-03-24T23:59:00",
       "link": "https://www.gradescope.com/courses/708525/assignments/4214341/submissions/241625619",
       "submitted": true
+    },
+    {
+      "title": "HW 7",
+      "course": "MATH 113-LEC-005",
+      "dueDate": "2024-04-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/708525",
+      "submitted": false
     }
   ],
   "MATH 228B-LEC-001": [
