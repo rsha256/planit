@@ -394,7 +394,7 @@ assignments = {
     {
       "title": "Problem Set 5",
       "course": "MATH 228B-LEC-001",
-      "dueDate": "2024-04-05T23:59:00",
+      "dueDate": "2024-04-08T23:59:00",
       "link": "https://www.gradescope.com/courses/697505",
       "submitted": false
     },
