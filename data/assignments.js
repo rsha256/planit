@@ -235,15 +235,15 @@ assignments = {
       "title": "Lab 10 Code",
       "course": "Data 102",
       "dueDate": "2024-04-10T17:00:00",
-      "link": "https://www.gradescope.com/courses/711377",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4317287/submissions/245048033",
+      "submitted": true
     },
     {
       "title": "Lab 10 Written",
       "course": "Data 102",
       "dueDate": "2024-04-10T17:00:00",
-      "link": "https://www.gradescope.com/courses/711377",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4317288/submissions/245048091",
+      "submitted": true
     },
     {
       "title": "Vitamin 10",
