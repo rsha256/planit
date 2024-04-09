@@ -511,6 +511,13 @@ assignments = {
       "dueDate": "2024-04-04T15:30:00",
       "link": "https://www.gradescope.com/courses/708637/assignments/4305341/submissions/243698641",
       "submitted": true
+    },
+    {
+      "title": "Practice Quiz 12: Mixing Inequalities",
+      "course": "STAT 157-SEM-001",
+      "dueDate": "2024-04-11T15:30:00",
+      "link": "https://www.gradescope.com/courses/708637/assignments/4335241/submissions/new",
+      "submitted": false
     }
   ]
 };
