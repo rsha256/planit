@@ -256,8 +256,8 @@ assignments = {
       "title": "Vitamin 11",
       "course": "Data 102",
       "dueDate": "2024-04-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/711377/assignments/4358486/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4358486/submissions/246748019",
+      "submitted": true
     }
   ],
   "Data 102 Vitamins": [
