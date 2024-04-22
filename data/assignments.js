@@ -293,6 +293,20 @@ assignments = {
       "dueDate": "2024-04-24T17:00:00",
       "link": "https://www.gradescope.com/courses/711377",
       "submitted": false
+    },
+    {
+      "title": "Homework 6",
+      "course": "Data 102",
+      "dueDate": "2024-04-28T17:00:00",
+      "link": "https://www.gradescope.com/courses/711377",
+      "submitted": false
+    },
+    {
+      "title": "Checkpoint 1",
+      "course": "Data 102",
+      "dueDate": "2024-04-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/711377",
+      "submitted": false
     }
   ],
   "Data 102 Vitamins": [
