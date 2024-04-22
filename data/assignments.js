@@ -553,6 +553,13 @@ assignments = {
       "dueDate": "2024-04-11T15:30:00",
       "link": "https://www.gradescope.com/courses/708637/assignments/4335241/submissions/245656931",
       "submitted": true
+    },
+    {
+      "title": "Practice Quiz 13: Channels and Capacity",
+      "course": "STAT 157-SEM-001",
+      "dueDate": "2024-04-25T15:30:00",
+      "link": "https://www.gradescope.com/courses/708637/assignments/4390472/submissions/new",
+      "submitted": false
     }
   ]
 };
