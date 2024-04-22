@@ -279,13 +279,6 @@ assignments = {
       "dueDate": "2024-04-21T23:59:00",
       "link": "https://www.gradescope.com/courses/711377/assignments/4387338/submissions/248514972",
       "submitted": true
-    },
-    {
-      "title": "Lab 12 Code",
-      "course": "Data 102",
-      "dueDate": "2024-04-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/711377",
-      "submitted": false
     }
   ],
   "Data 102 Vitamins": [
