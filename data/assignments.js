@@ -284,15 +284,15 @@ assignments = {
       "title": "Lab 12 Code",
       "course": "Data 102",
       "dueDate": "2024-04-24T17:00:00",
-      "link": "https://www.gradescope.com/courses/711377",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4393070/submissions/249161751",
+      "submitted": true
     },
     {
       "title": "Lab 12 Written",
       "course": "Data 102",
       "dueDate": "2024-04-24T17:00:00",
-      "link": "https://www.gradescope.com/courses/711377",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4393077/submissions/249161773",
+      "submitted": true
     },
     {
       "title": "Homework 6",
