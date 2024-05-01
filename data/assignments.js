@@ -311,9 +311,9 @@ assignments = {
     {
       "title": "Checkpoint 2",
       "course": "Data 102",
-      "dueDate": "2024-04-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/711377",
-      "submitted": false
+      "dueDate": "2024-05-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/711377/assignments/4396004/submissions/251365047",
+      "submitted": true
     }
   ],
   "Data 102 Vitamins": [
