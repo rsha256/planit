@@ -312,7 +312,7 @@ assignments = {
       "title": "Checkpoint 2",
       "course": "Data 102",
       "dueDate": "2024-05-01T23:59:00",
-      "link": "https://www.gradescope.com/courses/711377/assignments/4396004/submissions/251365047",
+      "link": "https://www.gradescope.com/courses/711377/assignments/4396004/submissions/251689835",
       "submitted": true
     }
   ],
