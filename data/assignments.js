@@ -328,6 +328,27 @@ assignments = {
       "dueDate": "2024-05-10T23:59:00",
       "link": "https://www.gradescope.com/courses/711377",
       "submitted": false
+    },
+    {
+      "title": "Final Project Report",
+      "course": "Data 102",
+      "dueDate": "2024-05-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/711377",
+      "submitted": false
+    },
+    {
+      "title": "Final Project Code",
+      "course": "Data 102",
+      "dueDate": "2024-05-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/711377",
+      "submitted": false
+    },
+    {
+      "title": "Final Project Group Member Evalution",
+      "course": "Data 102",
+      "dueDate": "2024-05-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/711377/assignments/4457756/submissions/new",
+      "submitted": false
     }
   ],
   "Data 102 Vitamins": [
