@@ -333,14 +333,14 @@ assignments = {
       "title": "Final Project Report",
       "course": "Data 102",
       "dueDate": "2024-05-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/711377",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711377/assignments/4457680/submissions/252750169",
+      "submitted": true
     },
     {
       "title": "Final Project Code",
       "course": "Data 102",
       "dueDate": "2024-05-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/711377/assignments/4457734/submissions/252612107",
+      "link": "https://www.gradescope.com/courses/711377/assignments/4457734/submissions/252744453",
       "submitted": true
     },
     {
