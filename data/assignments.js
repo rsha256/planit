@@ -535,8 +535,8 @@ assignments = {
       "title": "Problem Set 7",
       "course": "MATH 228B-LEC-001",
       "dueDate": "2024-05-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/697505",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/697505/assignments/3923603/submissions/252754163",
+      "submitted": true
     }
   ],
   "STAT 157-SEM-001": [
