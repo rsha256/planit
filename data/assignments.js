@@ -356,70 +356,70 @@ assignments = {
       "title": "Vitamin 1",
       "course": "Data 102 Vitamins",
       "dueDate": "2024-05-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/742764/assignments/4147431/submissions/new",
+      "link": "https://www.gradescope.com/courses/742764",
       "submitted": false
     },
     {
       "title": "Vitamin 2",
       "course": "Data 102 Vitamins",
       "dueDate": "2024-05-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/742764/assignments/4147433/submissions/new",
+      "link": "https://www.gradescope.com/courses/742764",
       "submitted": false
     },
     {
       "title": "Vitamin 3",
       "course": "Data 102 Vitamins",
       "dueDate": "2024-05-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/742764/assignments/4147435/submissions/new",
+      "link": "https://www.gradescope.com/courses/742764",
       "submitted": false
     },
     {
       "title": "Vitamin 4",
       "course": "Data 102 Vitamins",
       "dueDate": "2024-05-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/742764/assignments/4147436/submissions/new",
+      "link": "https://www.gradescope.com/courses/742764",
       "submitted": false
     },
     {
       "title": "Vitamin 5",
       "course": "Data 102 Vitamins",
       "dueDate": "2024-05-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/742764/assignments/4147437/submissions/new",
+      "link": "https://www.gradescope.com/courses/742764",
       "submitted": false
     },
     {
       "title": "Vitamin 6",
       "course": "Data 102 Vitamins",
       "dueDate": "2024-05-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/742764/assignments/4147439/submissions/new",
+      "link": "https://www.gradescope.com/courses/742764",
       "submitted": false
     },
     {
       "title": "Vitamin 7",
       "course": "Data 102 Vitamins",
       "dueDate": "2024-05-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/742764/assignments/4214501/submissions/new",
+      "link": "https://www.gradescope.com/courses/742764",
       "submitted": false
     },
     {
       "title": "Vitamin 8",
       "course": "Data 102 Vitamins",
       "dueDate": "2024-05-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/742764/assignments/4249341/submissions/new",
+      "link": "https://www.gradescope.com/courses/742764",
       "submitted": false
     },
     {
       "title": "Vitamin 9",
       "course": "Data 102 Vitamins",
       "dueDate": "2024-05-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/742764/assignments/4262897/submissions/new",
+      "link": "https://www.gradescope.com/courses/742764",
       "submitted": false
     },
     {
       "title": "Vitamin 10",
       "course": "Data 102 Vitamins",
       "dueDate": "2024-05-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/742764/assignments/4324403/submissions/new",
+      "link": "https://www.gradescope.com/courses/742764",
       "submitted": false
     }
   ],
