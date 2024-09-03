@@ -6,6 +6,13 @@ assignments = {
       "dueDate": "2024-08-29T11:00:00",
       "link": "https://www.gradescope.com/courses/847154/assignments/4844742/submissions/263068452",
       "submitted": true
+    },
+    {
+      "title": "Lecture 2 Warmup",
+      "course": "CS 270",
+      "dueDate": "2024-09-10T12:00:00",
+      "link": "https://www.gradescope.com/courses/847154/assignments/4877186/submissions/new",
+      "submitted": false
     }
   ],
   "Math 250A": [
