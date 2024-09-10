@@ -25,8 +25,8 @@ assignments = {
       "title": "Lecture 4 warmup",
       "course": "CS 270",
       "dueDate": "2024-09-18T16:00:00",
-      "link": "https://www.gradescope.com/courses/847154/assignments/4927855/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/847154/assignments/4927855/submissions/265987355",
+      "submitted": true
     }
   ],
   "Math 250A": [
