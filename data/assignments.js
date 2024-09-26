@@ -49,9 +49,9 @@ assignments = {
     {
       "title": "Midterm 1",
       "course": "Math 250A",
-      "dueDate": "2024-09-26T10:47:00",
-      "link": "https://www.gradescope.com/courses/781911/assignments/4480133/submissions/new",
-      "submitted": false
+      "dueDate": "2024-09-26T12:00:00",
+      "link": "https://www.gradescope.com/courses/781911/assignments/4480133/submissions/271711798",
+      "submitted": true
     },
     {
       "title": "Homework 4",
