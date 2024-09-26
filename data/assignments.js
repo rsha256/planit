@@ -47,6 +47,13 @@ assignments = {
   ],
   "Math 250A": [
     {
+      "title": "Midterm 1",
+      "course": "Math 250A",
+      "dueDate": "2024-09-26T10:47:00",
+      "link": "https://www.gradescope.com/courses/781911/assignments/4480133/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Homework 4",
       "course": "Math 250A",
       "dueDate": "2024-09-29T23:00:00",
