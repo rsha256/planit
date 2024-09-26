@@ -41,8 +41,8 @@ assignments = {
       "title": "Problem Set 1",
       "course": "CS 294",
       "dueDate": "2024-09-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/867007",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/867007/assignments/4954958/submissions/271522192",
+      "submitted": true
     }
   ],
   "Math 250A": [
