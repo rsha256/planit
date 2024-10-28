@@ -134,8 +134,8 @@ assignments = {
       "title": "Homework 8",
       "course": "Math 250A",
       "dueDate": "2024-10-27T23:00:00",
-      "link": "https://www.gradescope.com/courses/781911",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/781911/assignments/4480146/submissions/282724023",
+      "submitted": true
     },
     {
       "title": "Homework 9",
