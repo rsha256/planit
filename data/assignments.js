@@ -39,8 +39,8 @@ assignments = {
       "title": "Alternate exam. ",
       "course": "CS 270",
       "dueDate": "2024-12-25T23:01:00",
-      "link": "https://www.gradescope.com/courses/847154",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/847154/assignments/5460525/submissions/297474375",
+      "submitted": true
     }
   ],
   "CS 294": [
