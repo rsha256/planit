@@ -55,8 +55,8 @@ assignments = {
       "title": "Final Project",
       "course": "CS 294",
       "dueDate": "2024-12-21T03:00:00",
-      "link": "https://www.gradescope.com/courses/867007",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/867007/assignments/5443342/submissions/298408970",
+      "submitted": true
     }
   ],
   "Math 250A": [
