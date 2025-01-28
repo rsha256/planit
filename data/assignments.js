@@ -8,5 +8,13 @@ assignments = {
       "submitted": false
     }
   ],
-  "STAT 238": []
+  "STAT 238": [
+    {
+      "title": "Homework 1",
+      "course": "STAT 238",
+      "dueDate": "2025-02-11T11:00:00",
+      "link": "https://www.gradescope.com/courses/961711",
+      "submitted": false
+    }
+  ]
 };
