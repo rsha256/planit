@@ -31,6 +31,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Practice Quiz 1: Fundamentals of Bayesian Inference",
+      "course": "STAT 238",
+      "dueDate": "2025-02-04T11:00:00",
+      "link": "https://www.gradescope.com/courses/961711/assignments/5690189/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Lab 1",
       "course": "STAT 238",
       "dueDate": "2025-02-05T11:00:00",
