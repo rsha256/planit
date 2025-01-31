@@ -43,6 +43,13 @@ assignments = {
       "dueDate": "2025-02-05T11:00:00",
       "link": "https://www.gradescope.com/courses/961711",
       "submitted": false
+    },
+    {
+      "title": "Practice Quiz 2: Bayesian Thinking in the Beta, Binomial Model",
+      "course": "STAT 238",
+      "dueDate": "2025-02-04T11:00:00",
+      "link": "https://www.gradescope.com/courses/961711/assignments/5704800/submissions/new",
+      "submitted": false
     }
   ],
   "STAT 260": [
