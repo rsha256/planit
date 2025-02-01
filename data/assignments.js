@@ -13,6 +13,13 @@ assignments = {
       "dueDate": "2025-02-02T23:59:00",
       "link": "https://www.gradescope.com/courses/969624/assignments/5687827/submissions/302840010",
       "submitted": true
+    },
+    {
+      "title": "Project Group Formation [2/3/4 Units]",
+      "course": "CS 194/294-280",
+      "dueDate": "2025-02-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/969624/assignments/5712045/submissions/new",
+      "submitted": false
     }
   ],
   "STAT 238": [
