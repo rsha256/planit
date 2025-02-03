@@ -1,7 +1,7 @@
 assignments = {
   "CS 194/294-280": [
     {
-      "title": "Lecture 2 Reading Summary & Questions",
+      "title": "Lecture 2 Reading Summary",
       "course": "CS 194/294-280",
       "dueDate": "2025-02-02T23:59:00",
       "link": "https://www.gradescope.com/courses/969624/assignments/5683502/submissions/303173345",
