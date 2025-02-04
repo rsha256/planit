@@ -48,8 +48,8 @@ assignments = {
       "title": "Lab 1",
       "course": "STAT 238",
       "dueDate": "2025-02-05T11:00:00",
-      "link": "https://www.gradescope.com/courses/961711",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/961711/assignments/5696587/submissions/305112305",
+      "submitted": true
     },
     {
       "title": "Practice Quiz 2: Bayesian Thinking in the Beta, Binomial Model",
@@ -71,6 +71,13 @@ assignments = {
       "title": "Syllabus",
       "course": "STAT 260",
       "dueDate": "2025-01-28T18:11:00",
+      "link": "https://www.gradescope.com/courses/970705",
+      "submitted": false
+    },
+    {
+      "title": "Scribe sign-up",
+      "course": "STAT 260",
+      "dueDate": "2025-02-10T23:59:00",
       "link": "https://www.gradescope.com/courses/970705",
       "submitted": false
     }
