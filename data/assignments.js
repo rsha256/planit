@@ -89,7 +89,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Syllabus",
+      "title": "Syllabus (Updated w/ OH on Feb5)",
       "course": "STAT 260",
       "dueDate": "2025-01-28T18:11:00",
       "link": "https://www.gradescope.com/courses/970705",
