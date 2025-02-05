@@ -62,7 +62,7 @@ assignments = {
       "title": "Lab 1",
       "course": "STAT 238",
       "dueDate": "2025-02-05T11:00:00",
-      "link": "https://www.gradescope.com/courses/961711/assignments/5696587/submissions/305112305",
+      "link": "https://www.gradescope.com/courses/961711/assignments/5696587/submissions/305287204",
       "submitted": true
     },
     {
