@@ -41,6 +41,13 @@ assignments = {
       "dueDate": "2025-02-09T23:59:00",
       "link": "https://www.gradescope.com/courses/969624/assignments/5737312/submissions/306030441",
       "submitted": true
+    },
+    {
+      "title": "Missing Attendance Makeup Form",
+      "course": "CS 194/294-280",
+      "dueDate": "2025-05-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/969624/assignments/5757518/submissions/new",
+      "submitted": false
     }
   ],
   "STAT 238": [
