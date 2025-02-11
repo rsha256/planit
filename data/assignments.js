@@ -127,8 +127,8 @@ assignments = {
       "title": "Scribe sign-up",
       "course": "STAT 260",
       "dueDate": "2025-02-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/970705",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/970705/assignments/5731582/submissions/307120885",
+      "submitted": true
     }
   ]
 };
