@@ -53,8 +53,8 @@ assignments = {
       "title": "Lecture 4 Reading Summary",
       "course": "CS 194/294-280",
       "dueDate": "2025-02-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/969624/assignments/5772289/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/969624/assignments/5772289/submissions/307471170",
+      "submitted": true
     }
   ],
   "STAT 238": [
