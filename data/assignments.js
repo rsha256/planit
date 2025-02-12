@@ -120,8 +120,8 @@ assignments = {
       "title": "HW 1",
       "course": "STAT 260",
       "dueDate": "2025-02-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/970705",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/970705/assignments/5689543/submissions/307619054",
+      "submitted": true
     },
     {
       "title": "Syllabus (Updated w/ OH on Feb5)",
