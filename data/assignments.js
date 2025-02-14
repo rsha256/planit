@@ -133,28 +133,28 @@ assignments = {
     {
       "title": "Syllabus (Updated w/ OH on Feb5)",
       "course": "STAT 260",
-      "dueDate": "2025-01-28T18:11:00",
+      "dueDate": "2025-05-10T23:59:00",
       "link": "https://www.gradescope.com/courses/970705",
       "submitted": false
     },
     {
       "title": "Scribe sign-up",
       "course": "STAT 260",
-      "dueDate": "2025-02-10T23:59:00",
+      "dueDate": "2025-05-10T23:59:00",
       "link": "https://www.gradescope.com/courses/970705/assignments/5731582/submissions/307120885",
       "submitted": true
     },
     {
       "title": "Feb11 RandNLA PPT",
       "course": "STAT 260",
-      "dueDate": "2025-02-13T14:29:00",
+      "dueDate": "2025-05-10T23:59:00",
       "link": "https://www.gradescope.com/courses/970705",
       "submitted": false
     },
     {
       "title": "Feb11 RandNLA handwritten notes",
       "course": "STAT 260",
-      "dueDate": "2025-02-13T14:30:00",
+      "dueDate": "2025-05-10T23:59:00",
       "link": "https://www.gradescope.com/courses/970705",
       "submitted": false
     },
