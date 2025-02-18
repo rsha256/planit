@@ -55,6 +55,13 @@ assignments = {
       "dueDate": "2025-02-23T23:59:00",
       "link": "https://www.gradescope.com/courses/969624/assignments/5772289/submissions/307471170",
       "submitted": true
+    },
+    {
+      "title": "Quiz 3",
+      "course": "CS 194/294-280",
+      "dueDate": "2025-02-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/969624/assignments/5809346/submissions/new",
+      "submitted": false
     }
   ],
   "STAT 238": [
@@ -133,6 +140,27 @@ assignments = {
       "course": "STAT 238",
       "dueDate": "2025-02-19T11:00:00",
       "link": "https://www.gradescope.com/courses/961711",
+      "submitted": false
+    },
+    {
+      "title": "Practice Quiz 5: Conjugate Normal Models",
+      "course": "STAT 238",
+      "dueDate": "2025-03-04T11:00:00",
+      "link": "https://www.gradescope.com/courses/961711/assignments/5800192/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Practice Quiz 6: Uninformative Priors",
+      "course": "STAT 238",
+      "dueDate": "2025-03-04T11:00:00",
+      "link": "https://www.gradescope.com/courses/961711/assignments/5800270/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Practice Quiz 7: Conjugate Models and Exponential Families",
+      "course": "STAT 238",
+      "dueDate": "2025-03-04T11:00:00",
+      "link": "https://www.gradescope.com/courses/961711/assignments/5800273/submissions/new",
       "submitted": false
     }
   ],
