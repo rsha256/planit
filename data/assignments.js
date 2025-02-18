@@ -148,8 +148,8 @@ assignments = {
       "title": "Syllabus (Updated w/ OH on Feb5)",
       "course": "STAT 260",
       "dueDate": "2025-05-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/970705",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/970705/assignments/5689631/submissions/309478042",
+      "submitted": true
     },
     {
       "title": "Scribe sign-up",
@@ -162,15 +162,15 @@ assignments = {
       "title": "Feb11 RandNLA PPT",
       "course": "STAT 260",
       "dueDate": "2025-05-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/970705",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/970705/assignments/5787400/submissions/309477821",
+      "submitted": true
     },
     {
       "title": "Feb11 RandNLA handwritten notes",
       "course": "STAT 260",
       "dueDate": "2025-05-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/970705",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/970705/assignments/5787404/submissions/309469024",
+      "submitted": true
     },
     {
       "title": "HW 2",
