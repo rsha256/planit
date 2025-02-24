@@ -162,6 +162,13 @@ assignments = {
       "dueDate": "2025-03-04T11:00:00",
       "link": "https://www.gradescope.com/courses/961711/assignments/5800273/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Lab 4",
+      "course": "STAT 238",
+      "dueDate": "2025-02-26T11:00:00",
+      "link": "https://www.gradescope.com/courses/961711",
+      "submitted": false
     }
   ],
   "STAT 260": [
