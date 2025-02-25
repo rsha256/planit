@@ -176,6 +176,20 @@ assignments = {
       "dueDate": "2025-02-26T11:00:00",
       "link": "https://www.gradescope.com/courses/961711",
       "submitted": false
+    },
+    {
+      "title": "Project Mini 3",
+      "course": "STAT 238",
+      "dueDate": "2025-03-21T17:00:00",
+      "link": "https://www.gradescope.com/courses/961711",
+      "submitted": false
+    },
+    {
+      "title": "Project Mini 4",
+      "course": "STAT 238",
+      "dueDate": "2025-03-14T17:00:00",
+      "link": "https://www.gradescope.com/courses/961711",
+      "submitted": false
     }
   ],
   "STAT 260": [
