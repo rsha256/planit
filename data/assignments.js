@@ -69,6 +69,20 @@ assignments = {
       "dueDate": "2025-03-02T23:59:00",
       "link": "https://www.gradescope.com/courses/969624/assignments/5847800/submissions/312511382",
       "submitted": true
+    },
+    {
+      "title": "Attendance Tracker",
+      "course": "CS 194/294-280",
+      "dueDate": "2025-05-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/969624",
+      "submitted": false
+    },
+    {
+      "title": "Quiz 4",
+      "course": "CS 194/294-280",
+      "dueDate": "2025-03-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/969624/assignments/5872461/submissions/313422081",
+      "submitted": true
     }
   ],
   "STAT 238": [
