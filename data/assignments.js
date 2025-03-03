@@ -204,6 +204,13 @@ assignments = {
       "dueDate": "2025-03-14T17:00:00",
       "link": "https://www.gradescope.com/courses/961711",
       "submitted": false
+    },
+    {
+      "title": "Lab 5",
+      "course": "STAT 238",
+      "dueDate": "2025-03-05T11:00:00",
+      "link": "https://www.gradescope.com/courses/961711",
+      "submitted": false
     }
   ],
   "STAT 260": [
