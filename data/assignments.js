@@ -229,28 +229,28 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Syllabus (Updated w/ OH on Feb5)",
+      "title": "[Info] Syllabus (Updated w/ OH on Feb5)",
       "course": "STAT 260",
       "dueDate": "2025-05-10T23:59:00",
       "link": "https://www.gradescope.com/courses/970705/assignments/5689631/submissions/309478042",
       "submitted": true
     },
     {
-      "title": "Scribe sign-up",
+      "title": "[Sign-up] Scribe sign-up",
       "course": "STAT 260",
       "dueDate": "2025-05-10T23:59:00",
       "link": "https://www.gradescope.com/courses/970705/assignments/5731582/submissions/307120885",
       "submitted": true
     },
     {
-      "title": "Feb11 RandNLA PPT",
+      "title": "[Info] Feb11 RandNLA PPT",
       "course": "STAT 260",
       "dueDate": "2025-05-10T23:59:00",
       "link": "https://www.gradescope.com/courses/970705/assignments/5787400/submissions/309477821",
       "submitted": true
     },
     {
-      "title": "Feb11 RandNLA handwritten notes",
+      "title": "[Info] Feb11 RandNLA handwritten notes",
       "course": "STAT 260",
       "dueDate": "2025-05-10T23:59:00",
       "link": "https://www.gradescope.com/courses/970705/assignments/5787404/submissions/309469024",
@@ -264,16 +264,23 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Class Project Instruction",
+      "title": "[Info] Class Project Instruction",
       "course": "STAT 260",
       "dueDate": "2025-05-10T23:59:00",
       "link": "https://www.gradescope.com/courses/970705",
       "submitted": false
     },
     {
-      "title": "HW1 Solution",
+      "title": "[Info] HW1 Solution",
       "course": "STAT 260",
       "dueDate": "2025-05-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/970705",
+      "submitted": false
+    },
+    {
+      "title": "Project - Brief Statement",
+      "course": "STAT 260",
+      "dueDate": "2025-03-05T17:00:00",
       "link": "https://www.gradescope.com/courses/970705",
       "submitted": false
     }
