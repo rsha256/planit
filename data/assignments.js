@@ -218,6 +218,13 @@ assignments = {
       "dueDate": "2025-03-05T11:00:00",
       "link": "https://www.gradescope.com/courses/961711",
       "submitted": false
+    },
+    {
+      "title": "Practice Quiz 8: Nonconjugate Modeling",
+      "course": "STAT 238",
+      "dueDate": "2025-03-11T11:00:00",
+      "link": "https://www.gradescope.com/courses/961711/assignments/5896445/submissions/new",
+      "submitted": false
     }
   ],
   "STAT 260": [
