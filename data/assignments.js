@@ -290,6 +290,13 @@ assignments = {
       "dueDate": "2025-03-05T17:00:00",
       "link": "https://www.gradescope.com/courses/970705/assignments/5889645/submissions/314425753",
       "submitted": true
+    },
+    {
+      "title": "HW 3",
+      "course": "STAT 260",
+      "dueDate": "2025-03-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/970705",
+      "submitted": false
     }
   ]
 };
