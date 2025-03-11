@@ -339,6 +339,13 @@ assignments = {
       "dueDate": "2025-03-20T23:59:00",
       "link": "https://www.gradescope.com/courses/970705",
       "submitted": false
+    },
+    {
+      "title": "Project - Initial proposal (1 page)",
+      "course": "STAT 260",
+      "dueDate": "2025-03-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/970705",
+      "submitted": false
     }
   ]
 };
