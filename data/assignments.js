@@ -267,6 +267,13 @@ assignments = {
       "dueDate": "2025-04-04T17:00:00",
       "link": "https://www.gradescope.com/courses/961711",
       "submitted": false
+    },
+    {
+      "title": "Practice Quiz 9: Bayesian Point Estimation (MAP and Laplace)",
+      "course": "STAT 238",
+      "dueDate": "2025-03-18T11:00:00",
+      "link": "https://www.gradescope.com/courses/961711/assignments/5923677/submissions/new",
+      "submitted": false
     }
   ],
   "STAT 260": [
