@@ -111,6 +111,13 @@ assignments = {
       "dueDate": "2025-03-17T23:59:00",
       "link": "https://www.gradescope.com/courses/969624/assignments/5941395/submissions/317679133",
       "submitted": true
+    },
+    {
+      "title": "Lecture 8 Reading Summary",
+      "course": "CS 194/294-280",
+      "dueDate": "2025-03-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/969624/assignments/5955579/submissions/new",
+      "submitted": false
     }
   ],
   "STAT 238": [
