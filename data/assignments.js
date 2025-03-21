@@ -365,8 +365,8 @@ assignments = {
       "title": "HW 3",
       "course": "STAT 260",
       "dueDate": "2025-03-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/970705",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/970705/assignments/5901521/submissions/318919268",
+      "submitted": true
     },
     {
       "title": "Project - Initial proposal (1 page)",
