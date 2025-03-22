@@ -125,6 +125,13 @@ assignments = {
       "dueDate": "2025-05-16T23:59:00",
       "link": "https://www.gradescope.com/courses/969624/assignments/5960176/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Quiz 7",
+      "course": "CS 194/294-280",
+      "dueDate": "2025-04-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/969624/assignments/5973581/submissions/new",
+      "submitted": false
     }
   ],
   "STAT 238": [
