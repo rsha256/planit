@@ -74,7 +74,7 @@ assignments = {
       "title": "Attendance Tracker",
       "course": "CS 194/294-280",
       "dueDate": "2025-05-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/969624/assignments/5864831/submissions/320280948",
+      "link": "https://www.gradescope.com/courses/969624/assignments/5864831/submissions/321634977",
       "submitted": true
     },
     {
