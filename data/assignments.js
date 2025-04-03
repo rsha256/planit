@@ -323,6 +323,27 @@ assignments = {
       "dueDate": "2025-04-02T09:00:00",
       "link": "https://www.gradescope.com/courses/961711",
       "submitted": false
+    },
+    {
+      "title": "Practice Quiz 11: Markov Chains",
+      "course": "STAT 238",
+      "dueDate": "2025-04-10T11:00:00",
+      "link": "https://www.gradescope.com/courses/961711/assignments/6029079/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Practice Quiz 10: Importance and Rejection Sampling",
+      "course": "STAT 238",
+      "dueDate": "2025-04-10T11:00:00",
+      "link": "https://www.gradescope.com/courses/961711/assignments/6029435/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Practice Quiz 12: Metropolis Hastings and Gibbs Sampling",
+      "course": "STAT 238",
+      "dueDate": "2025-04-10T11:00:00",
+      "link": "https://www.gradescope.com/courses/961711/assignments/6029680/submissions/new",
+      "submitted": false
     }
   ],
   "STAT 260": [
