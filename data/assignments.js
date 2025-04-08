@@ -425,7 +425,7 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "[Info] HW1 Solution",
+      "title": "[Info] HW 1,2,3 Solution",
       "course": "STAT 260",
       "dueDate": "2025-05-10T23:59:00",
       "link": "https://www.gradescope.com/courses/970705",
@@ -456,6 +456,20 @@ assignments = {
       "title": "[Info] Random Matrix Theory for Modern Machine Learning",
       "course": "STAT 260",
       "dueDate": "2025-05-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/970705",
+      "submitted": false
+    },
+    {
+      "title": "Project - Midterm report (3-4 pages)",
+      "course": "STAT 260",
+      "dueDate": "2025-04-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/970705",
+      "submitted": false
+    },
+    {
+      "title": "HW 4",
+      "course": "STAT 260",
+      "dueDate": "2025-04-22T23:59:00",
       "link": "https://www.gradescope.com/courses/970705",
       "submitted": false
     }
