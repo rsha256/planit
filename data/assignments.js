@@ -151,8 +151,8 @@ assignments = {
       "title": "Lecture 10 Reading Summary",
       "course": "CS 194/294-280",
       "dueDate": "2025-04-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/969624/assignments/6051878/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/969624/assignments/6051878/submissions/323914640",
+      "submitted": true
     },
     {
       "title": "Lab 1, Deliverable 1 - Verifiable Code Generation Dataset",
