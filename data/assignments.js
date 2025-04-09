@@ -379,6 +379,13 @@ assignments = {
       "dueDate": "2025-05-02T17:00:00",
       "link": "https://www.gradescope.com/courses/961711",
       "submitted": false
+    },
+    {
+      "title": "Practice Quiz 13: Advanced Sampling Methods (Simulated Tempering, HMC, and Ensemble Methods)",
+      "course": "STAT 238",
+      "dueDate": "2025-04-17T11:00:00",
+      "link": "https://www.gradescope.com/courses/961711/assignments/6053009/submissions/new",
+      "submitted": false
     }
   ],
   "STAT 260": [
