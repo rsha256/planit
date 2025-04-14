@@ -400,6 +400,13 @@ assignments = {
       "dueDate": "2025-04-17T11:00:00",
       "link": "https://www.gradescope.com/courses/961711/assignments/6053009/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Lab 8",
+      "course": "STAT 238",
+      "dueDate": "2025-04-16T13:00:00",
+      "link": "https://www.gradescope.com/courses/961711",
+      "submitted": false
     }
   ],
   "STAT 260": [
