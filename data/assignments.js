@@ -172,8 +172,8 @@ assignments = {
       "title": "Quiz 9",
       "course": "CS 194/294-280",
       "dueDate": "2025-04-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/969624/assignments/6081855/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/969624/assignments/6081855/submissions/325304637",
+      "submitted": true
     }
   ],
   "STAT 238": [
@@ -505,6 +505,13 @@ assignments = {
       "title": "HW 4",
       "course": "STAT 260",
       "dueDate": "2025-04-22T23:59:00",
+      "link": "https://www.gradescope.com/courses/970705",
+      "submitted": false
+    },
+    {
+      "title": "[Info] Apr15 Lecture Notes",
+      "course": "STAT 260",
+      "dueDate": "2025-05-10T23:59:00",
       "link": "https://www.gradescope.com/courses/970705",
       "submitted": false
     }
