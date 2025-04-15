@@ -73,7 +73,7 @@ assignments = {
     {
       "title": "Attendance Tracker",
       "course": "CS 194/294-280",
-      "dueDate": "2025-05-17T23:59:00",
+      "dueDate": "2025-05-16T23:59:00",
       "link": "https://www.gradescope.com/courses/969624/assignments/5864831/submissions/324840808",
       "submitted": true
     },
@@ -174,6 +174,13 @@ assignments = {
       "dueDate": "2025-04-16T23:59:00",
       "link": "https://www.gradescope.com/courses/969624/assignments/6081855/submissions/325304637",
       "submitted": true
+    },
+    {
+      "title": "Lecture 11 Reading Summary",
+      "course": "CS 194/294-280",
+      "dueDate": "2025-04-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/969624/assignments/6082460/submissions/new",
+      "submitted": false
     }
   ],
   "STAT 238": [
@@ -405,6 +412,13 @@ assignments = {
       "title": "Lab 8",
       "course": "STAT 238",
       "dueDate": "2025-04-16T13:00:00",
+      "link": "https://www.gradescope.com/courses/961711",
+      "submitted": false
+    },
+    {
+      "title": "Homework 5",
+      "course": "STAT 238",
+      "dueDate": "2025-04-29T11:00:00",
       "link": "https://www.gradescope.com/courses/961711",
       "submitted": false
     }
